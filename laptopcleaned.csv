@@ -1,0 +1,1196 @@
+Company,TypeName,Inches,Ram,OpSys,Weight,CpuType,CpuAcc,OnlyResolution,MemorySize,MemoryType,GpuType,Price_TH
+Apple,Ultrabook,13.3,8,macOS,1.37,i5,2.3,2560x1600,128.0,SSD,Intel,48751.32
+Apple,Ultrabook,13.3,8,macOS,1.34,i5,1.8,1440x900,128.0,Flash,Intel,32712.43
+HP,Notebook,15.6,8,No OS,1.86,i5,2.5,1920x1080,256.0,SSD,Intel,20924.25
+Apple,Ultrabook,13.3,8,macOS,1.37,i5,3.1,2560x1600,256.0,SSD,Intel,65633.0
+Acer,Notebook,15.6,4,Windows 10,2.1,AMD,3,1366x768,500.0,HDD,AMD,14556.0
+Apple,Ultrabook,15.4,16,Mac OS X,2.04,i7,2.2,2880x1800,256.0,Flash,Intel,77873.51
+Apple,Ultrabook,13.3,8,macOS,1.34,i5,1.8,1440x900,256.0,Flash,Intel,42165.09
+Asus,Ultrabook,14.0,16,Windows 10,1.3,i7,1.8,1920x1080,512.0,SSD,Nvidia,54403.05
+Acer,Ultrabook,14.0,8,Windows 10,1.6,i5,1.6,1920x1080,256.0,SSD,Intel,28020.3
+HP,Notebook,15.6,4,No OS,1.86,i5,2.5,1366x768,500.0,HDD,Intel,14334.02
+HP,Notebook,15.6,4,No OS,1.86,i3,2,1920x1080,500.0,HDD,Intel,12554.19
+Dell,Notebook,15.6,4,Windows 10,2.2,i3,2,1920x1080,256.0,SSD,AMD,18154.97
+Apple,Ultrabook,12.0,8,macOS,0.92,Core M,1.2,2304x1440,256.0,SSD,Intel,45938.74
+Apple,Ultrabook,13.3,8,macOS,1.37,i5,2.3,2560x1600,256.0,SSD,Intel,55260.03
+Dell,Notebook,15.6,8,Windows 10,2.2,i7,2.7,1920x1080,256.0,SSD,AMD,27110.55
+Lenovo,Notebook,15.6,8,No OS,2.2,i3,2.4,1920x1080,1000.0,HDD,Nvidia,18158.61
+Dell,Ultrabook,13.3,8,Windows 10,1.22,i5,1.6,1920x1080,128.0,SSD,Intel,35625.81
+Asus,Netbook,11.6,2,Windows 10,0.98,Atom,1.44,1366x768,32.0,Flash,Intel,6983.24
+Lenovo,Gaming,15.6,8,Windows 10,2.5,i5,2.5,1920x1080,128.0,SSD,Nvidia,36353.61
+HP,Notebook,15.6,4,No OS,1.86,AMD,1.5,1366x768,500.0,HDD,AMD,9388.62
+Dell,2 in 1 Convertible,13.3,8,Windows 10,1.62,i5,1.6,1920x1080,256.0,SSD,Intel,29803.41
+HP,Ultrabook,15.6,8,Windows 10,1.91,i7,1.8,1920x1080,256.0,SSD,Intel,23981.01
+Dell,Notebook,15.6,4,Windows 10,2.3,i3,2,1366x768,1000.0,HDD,Intel,15234.31
+Apple,Ultrabook,13.3,8,Mac OS X,1.35,i5,1.6,1440x900,128.0,Flash,Intel,39992.61
+Dell,Notebook,15.6,8,Windows 10,2.2,i5,1.6,1920x1080,256.0,SSD,AMD,29112.0
+Dell,Ultrabook,15.6,8,Windows 10,1.88,i7,1.9,1920x1080,256.0,SSD,Intel,47234.22
+HP,Notebook,17.3,8,Windows 10,2.5,i5,1.6,1920x1080,1000.0,HDD,Nvidia,32605.44
+Chuwi,Notebook,15.6,4,Windows 10,1.89,Atom,1.44,1920x1080,64.0,Flash,Intel,8915.19
+Asus,Notebook,14.0,2,Windows 10,1.65,AMD,1.5,1366x768,32.0,Flash,AMD,7241.61
+HP,Notebook,17.3,4,Windows 10,2.71,AMD,2.5,1920x1080,500.0,HDD,AMD,15975.21
+Dell,Ultrabook,13.3,16,Windows 10,1.2,i7,1.8,3200x1800,512.0,SSD,Intel,68012.91
+Apple,Ultrabook,13.3,8,Mac OS X,1.35,i5,1.6,1440x900,256.0,Flash,Intel,36317.22
+Lenovo,Notebook,14.0,4,Windows 10,1.44,Celeron,1.1,1366x768,64.0,Flash,Intel,9061.11
+Acer,Notebook,15.6,4,Linux,2.1,i3,2.7,1366x768,1000.0,HDD,Intel,13355.13
+Dell,Notebook,17.3,8,Windows 10,2.8,i5,1.6,1920x1080,128.0,SSD,AMD,35625.81
+HP,Notebook,15.6,4,Windows 10,1.86,i5,2.5,1366x768,1000.0,HDD,Intel,17783.43
+HP,Notebook,15.6,8,Windows 10,2.1,i5,1.6,1920x1080,256.0,SSD,Nvidia,31986.81
+Asus,Notebook,15.6,4,Linux,2.0,i3,2,1920x1080,1000.0,HDD,Intel,14155.71
+Dell,Gaming,15.6,16,Windows 10,2.65,i7,2.8,1920x1080,256.0,SSD,Nvidia,54548.61
+Asus,Notebook,15.6,8,Linux,2.3,i5,2.5,1366x768,1000.0,HDD,Nvidia,19031.61
+Acer,Notebook,15.6,4,Windows 10,2.2,i5,1.6,1920x1080,256.0,SSD,Intel,24817.98
+Dell,2 in 1 Convertible,17.3,12,Windows 10,2.77,i5,1.6,1920x1080,1000.0,HDD,Nvidia,36353.61
+Apple,Ultrabook,13.3,8,macOS,1.37,i5,2.0,2560x1600,256.0,SSD,Intel,51637.41
+Lenovo,Notebook,15.6,4,No OS,2.2,i3,2,1366x768,128.0,SSD,Intel,13427.91
+Asus,Gaming,17.3,8,Windows 10,3.2,AMD,3,1920x1080,256.0,SSD,AMD,47270.61
+Dell,Notebook,15.6,4,Windows 10,2.3,i5,2.5,1920x1080,256.0,SSD,AMD,23253.21
+Asus,Notebook,17.3,4,Windows 10,2.8,Pentium,1.1,1366x768,1000.0,HDD,Nvidia,16957.74
+Lenovo,2 in 1 Convertible,10.1,4,Android,0.69,Atom,1.44,1920x1200,64.0,Flash,Intel,11608.41
+Acer,Notebook,15.6,8,Windows 10,2.2,i7,1.8,1920x1080,256.0,SSD,Nvidia,30603.99
+HP,Notebook,15.6,4,Windows 10,1.86,AMD,2.5,1920x1080,256.0,SSD,AMD,14501.05
+HP,Notebook,13.3,8,Windows 10,1.49,i7,1.8,1920x1080,512.0,SSD,Intel,40138.17
+Acer,Notebook,15.6,4,Windows 10,2.4,i3,2.4,1366x768,1000.0,HDD,Intel,13973.76
+Dell,Notebook,15.6,8,Windows 10,2.13,i7,1.8,1920x1080,256.0,SSD,AMD,27940.24
+HP,Notebook,15.6,4,Windows 10,1.91,i3,2,1920x1080,128.0,SSD,Intel,15975.21
+Asus,Notebook,15.6,4,Windows 10,2.0,i5,2.5,1366x768,256.0,SSD,Intel,21331.45
+Asus,Notebook,15.6,4,Linux,2.0,i3,2,1920x1080,256.0,SSD,Intel,15101.85
+Dell,Notebook,17.3,16,Windows 10,2.8,i7,1.8,1920x1080,256.0,SSD,AMD,47270.61
+Dell,Ultrabook,14.0,8,Windows 10,1.7,i5,1.6,1920x1080,256.0,SSD,Intel,31986.81
+Lenovo,Notebook,14.0,8,No OS,1.7,i3,2.7,1920x1080,256.0,SSD,Intel,21797.61
+Asus,Notebook,14.0,8,Windows 10,1.4,i5,1.6,1920x1080,256.0,SSD,Intel,34242.99
+HP,Notebook,15.6,8,Windows 10,1.86,i5,2.5,1920x1080,256.0,SSD,Intel,25109.1
+Asus,Ultrabook,15.6,16,Windows 10,1.8,i7,2.8,1920x1080,512.0,SSD,Nvidia,72161.37
+HP,Notebook,15.6,4,Windows 10,1.86,i3,2,1366x768,500.0,HDD,AMD,15963.93
+HP,Notebook,14.0,4,Windows 10,1.44,Celeron,1.6,1366x768,32.0,SSD,Intel,8333.31
+Lenovo,Notebook,15.6,4,Windows 10,1.9,i5,2.5,1920x1080,1000.0,HDD,Intel,19978.11
+Asus,Gaming,17.3,12,Linux,3.0,i7,2.8,1920x1080,1000.0,HDD,Nvidia,34534.11
+Microsoft,Ultrabook,13.5,4,Windows 10 S,1.25,i5,2.5,2256x1504,128.0,SSD,Intel,39628.71
+Dell,Ultrabook,13.3,8,Windows 10,1.4,i7,1.8,1920x1080,256.0,SSD,AMD,34752.45
+Dell,Notebook,15.6,8,Windows 10,2.2,i7,1.8,1920x1080,256.0,SSD,AMD,31659.3
+MSI,Gaming,17.3,8,Windows 10,2.7,i5,2.5,1920x1080,128.0,SSD,Nvidia,39847.05
+Acer,Notebook,14.0,8,Windows 10,2.1,i3,2,1366x768,1000.0,HDD,Intel,14155.71
+Asus,Gaming,15.6,8,Windows 10,2.2,i7,2.8,1920x1080,1000.0,HDD,Nvidia,34534.11
+Lenovo,Notebook,15.6,8,No OS,2.2,i5,2.5,1920x1080,2000.0,HDD,Intel,18886.41
+Dell,Notebook,15.6,8,Windows 10,2.02,i7,1.8,1920x1080,128.0,SSD,Intel,31113.45
+Acer,Notebook,15.6,4,Windows 10,2.2,i3,2.7,1920x1080,1000.0,HDD,Nvidia,19286.7
+HP,Notebook,17.3,8,Windows 10,2.5,i5,1.6,1920x1080,128.0,SSD,Nvidia,35553.03
+Dell,Ultrabook,15.6,8,Windows 10,1.88,i5,1.6,1920x1080,256.0,SSD,Intel,39889.26
+Apple,Ultrabook,12.0,8,macOS,0.92,i5,1.3,2304x1440,512.0,SSD,Intel,54948.9
+HP,Notebook,14.0,8,Windows 10,1.63,i5,1.6,1920x1080,256.0,SSD,Intel,31295.4
+Lenovo,Notebook,15.6,4,Windows 10,2.2,AMD,2.5,1920x1080,128.0,SSD,AMD,14519.61
+Acer,Notebook,15.6,4,Windows 10,2.1,AMD,3,1366x768,1000.0,HDD,AMD,14374.05
+Dell,Gaming,15.6,16,Windows 10,2.65,i7,2.8,1920x1080,128.0,SSD,Nvidia,49090.11
+HP,Ultrabook,15.6,8,Windows 10,1.83,i7,1.8,1920x1080,256.0,SSD,Nvidia,25436.61
+HP,Notebook,15.6,8,Windows 10,1.96,i5,2.5,1920x1080,256.0,SSD,Intel,21797.25
+Asus,Gaming,15.6,16,Windows 10,2.2,i7,2.8,1920x1080,128.0,SSD,Nvidia,52729.11
+Dell,Ultrabook,13.3,8,Windows 10,1.21,i7,1.8,1920x1080,256.0,SSD,Intel,60007.11
+Asus,Gaming,15.6,8,Windows 10,2.45,AMD,3,1920x1080,1000.0,HDD,AMD,25436.61
+Acer,Notebook,15.6,8,Windows 10,2.2,i7,1.8,1920x1080,1000.0,HDD,Nvidia,25072.71
+HP,Notebook,13.3,16,Windows 10,1.49,i7,1.8,1920x1080,512.0,SSD,Intel,43558.83
+Dell,Gaming,15.6,8,Windows 10,2.65,i5,2.5,1920x1080,256.0,SSD,Nvidia,43486.05
+Asus,Ultrabook,14.0,8,Windows 10,1.25,i7,2.7,1920x1080,256.0,SSD,Intel,38173.11
+Acer,2 in 1 Convertible,13.3,8,Windows 10,1.5,i5,1.6,1920x1080,256.0,SSD,Intel,30822.33
+Dell,Notebook,15.6,8,Linux,2.2,i7,2.7,1920x1080,1000.0,HDD,AMD,21830.36
+Dell,Notebook,15.6,4,Linux,2.2,i3,2,1920x1080,256.0,SSD,AMD,17649.15
+Asus,Notebook,15.6,6,Windows 10,2.0,i3,2.4,1920x1080,256.0,SSD,Nvidia,20997.03
+HP,Gaming,15.6,12,Windows 10,2.62,i7,2.8,1920x1080,128.0,SSD,Nvidia,45451.11
+HP,Notebook,15.6,8,Windows 10,1.91,i7,2.7,1920x1080,256.0,SSD,AMD,26164.41
+HP,Notebook,15.6,4,Windows 10,2.1,AMD,1.5,1920x1080,500.0,HDD,AMD,12700.11
+Dell,Notebook,15.6,8,Linux,2.2,i5,1.6,1920x1080,1000.0,HDD,AMD,23544.33
+HP,Ultrabook,13.3,8,Windows 10,1.38,i7,2.7,1920x1080,256.0,SSD,Nvidia,40720.41
+Microsoft,Ultrabook,13.5,8,Windows 10 S,1.25,i5,2.5,2256x1504,256.0,SSD,Intel,48762.6
+HP,Notebook,14.0,6,Windows 10,1.58,i5,2.5,1920x1080,256.0,SSD,Nvidia,23981.01
+Lenovo,Notebook,15.6,4,Windows 10,1.85,i3,2,1920x1080,1000.0,HDD,Intel,15098.21
+Asus,Ultrabook,14.0,8,Windows 10,1.3,i7,2.7,1920x1080,256.0,SSD,Nvidia,43413.27
+MSI,Gaming,15.6,16,Windows 10,2.2,i7,2.8,1920x1080,256.0,SSD,Nvidia,47270.61
+Lenovo,Notebook,14.0,8,Windows 10,1.58,i7,2.7,1920x1080,256.0,SSD,Intel,53857.2
+Asus,Ultrabook,15.6,16,Windows 10,1.5,i7,1.8,1920x1080,256.0,SSD,Nvidia,45924.18
+Dell,Ultrabook,13.3,8,Windows 10,1.23,i7,2.4,3200x1800,256.0,SSD,Intel,50181.81
+Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.37,i5,2.5,1920x1080,256.0,SSD,Intel,50909.61
+HP,Notebook,14.0,4,Windows 10,1.63,i5,1.6,1366x768,500.0,HDD,Intel,26273.58
+Dell,Ultrabook,13.3,8,Windows 10,1.21,i5,1.6,1920x1080,256.0,SSD,Intel,59279.31
+HP,2 in 1 Convertible,13.3,8,Windows 10,1.26,i5,1.6,1920x1080,256.0,SSD,Intel,50909.25
+HP,Notebook,14.0,8,Windows 10,1.63,i7,1.8,1920x1080,512.0,SSD,Intel,39446.76
+Dell,Notebook,15.6,8,Windows 10,2.16,i7,1.8,1920x1080,256.0,SSD,Nvidia,41132.71
+Asus,Notebook,17.3,4,Windows 10,2.0,i3,2,1920x1080,1000.0,HDD,Nvidia,20523.96
+Asus,Notebook,15.6,8,Windows 10,1.7,i7,1.8,1920x1080,256.0,SSD,Nvidia,40684.02
+Acer,Notebook,15.6,6,Windows 10,2.1,i3,2.4,1920x1080,1000.0,HDD,Intel,17430.81
+Lenovo,Notebook,15.6,8,No OS,2.2,i5,2.5,1920x1080,256.0,SSD,Nvidia,22889.31
+HP,Notebook,17.3,16,Windows 10,2.5,i7,1.8,1920x1080,512.0,SSD,Nvidia,46251.69
+Acer,Notebook,15.6,4,Windows 10,2.1,AMD,3,1366x768,256.0,SSD,AMD,16411.89
+HP,Notebook,15.6,4,No OS,1.86,Celeron,1.6,1366x768,500.0,HDD,Intel,9425.01
+HP,Notebook,14.0,8,Windows 10,1.63,i5,1.6,1920x1080,1000.0,HDD,Intel,29548.68
+Asus,Notebook,14.0,4,Windows 10 S,1.65,AMD,1.5,1366x768,64.0,SSD,AMD,10116.06
+Dell,Notebook,17.3,16,Windows 10,2.8,i7,1.8,1920x1080,256.0,SSD,AMD,50800.44
+HP,Notebook,17.3,8,Windows 10,2.5,i5,1.6,1920x1080,256.0,SSD,Intel,33769.92
+Dell,Notebook,15.6,8,Windows 10,2.36,i5,2.5,1366x768,1000.0,HDD,AMD,23252.85
+Dell,Notebook,15.6,4,Windows 10,2.2,i3,2,1920x1080,1000.0,HDD,AMD,16339.11
+Acer,Ultrabook,14.0,8,Windows 10,1.6,i7,1.8,1920x1080,256.0,SSD,Intel,32168.76
+Acer,Notebook,15.6,4,Windows 10,2.2,i3,2.7,1920x1080,256.0,SSD,Nvidia,20815.08
+HP,Notebook,15.6,8,Windows 10,2.05,i7,2.7,1366x768,1000.0,HDD,Intel,21761.22
+HP,Notebook,14.0,8,Windows 10,1.63,i7,1.8,1920x1080,256.0,SSD,Intel,35953.32
+Lenovo,Notebook,15.6,4,No OS,1.9,Celeron,1.1,1366x768,1000.0,HDD,Intel,9183.38
+Asus,Gaming,17.3,8,Windows 10,3.0,i5,2.5,1920x1080,128.0,SSD,Nvidia,34133.82
+Lenovo,Notebook,15.6,4,No OS,2.2,i5,2.5,1920x1080,1000.0,HDD,Nvidia,18158.61
+HP,Notebook,13.3,4,Windows 10,1.32,i5,2.5,1920x1080,256.0,SSD,Intel,25436.61
+Acer,Notebook,17.3,4,Windows 10,3.0,i3,2.7,1920x1080,1000.0,HDD,Nvidia,23835.45
+Lenovo,Notebook,14.0,8,Windows 10,1.75,i5,1.6,1920x1080,256.0,SSD,AMD,40611.97
+Lenovo,Gaming,15.6,8,No OS,2.4,i7,2.8,1920x1080,256.0,SSD,Nvidia,31622.91
+Toshiba,Notebook,15.6,4,Windows 10,2.1,i5,2.3,1366x768,500.0,HDD,Intel,21906.78
+HP,Notebook,15.6,4,Windows 10,1.86,AMD,2.5,1366x768,256.0,SSD,AMD,13427.91
+Asus,Ultrabook,14.0,8,Windows 10,1.25,i7,1.8,1920x1080,256.0,SSD,Intel,39992.61
+HP,Ultrabook,12.5,8,Windows 10,0.97,Core M,1.2,3840x2160,512.0,SSD,Intel,73289.46
+Asus,Notebook,15.6,4,Windows 10,2.0,Celeron,1.1,1920x1080,1000.0,HDD,Intel,12518.16
+MSI,Gaming,17.3,16,Windows 10,2.9,i7,2.8,1920x1080,256.0,SSD,Nvidia,73835.31
+Acer,Notebook,15.6,4,Windows 10,2.1,i3,2,1366x768,1000.0,HDD,Intel,16266.33
+Dell,Gaming,15.6,16,Windows 10,2.56,i7,2.8,1920x1080,512.0,SSD,Nvidia,45460.57
+Dell,Gaming,15.6,8,Windows 10,2.62,i7,2.8,1920x1080,1000.0,Hybrid,Nvidia,32714.61
+Lenovo,Notebook,15.6,4,Windows 10,1.9,i5,2.5,1366x768,128.0,SSD,Intel,18122.22
+MSI,Gaming,17.3,16,Windows 10,2.8,i7,2.8,1920x1080,256.0,SSD,Nvidia,68777.1
+HP,Ultrabook,14.0,4,Windows 10,1.48,i5,2.7,1920x1080,256.0,SSD,Intel,39373.98
+HP,Notebook,15.6,6,Windows 10,1.91,i5,1.6,1920x1080,256.0,SSD,AMD,22525.41
+Lenovo,2 in 1 Convertible,14.0,4,Windows 10,1.74,i3,2.4,1920x1080,256.0,SSD,Intel,22889.31
+Asus,2 in 1 Convertible,13.3,8,Windows 10,1.1,i5,1.6,1920x1080,256.0,SSD,Intel,47852.85
+Dell,2 in 1 Convertible,15.6,8,Windows 10,1.56,i7,1.8,1920x1080,256.0,SSD,Intel,38173.11
+Toshiba,Notebook,15.6,4,Windows 10,2.1,i3,2.2,1366x768,500.0,HDD,Intel,16266.33
+Asus,Notebook,15.6,4,Windows 10,2.03,AMD,3,1366x768,1000.0,HDD,AMD,14665.17
+Acer,Notebook,17.3,4,Windows 10,3.0,i5,1.6,1920x1080,256.0,SSD,Nvidia,29293.95
+Dell,Notebook,15.6,8,Windows 10,2.13,i5,1.6,1920x1080,256.0,SSD,AMD,26491.92
+Lenovo,Gaming,15.6,16,Windows 10,2.5,i7,2.8,1920x1080,256.0,SSD,Nvidia,39264.81
+Acer,Notebook,15.6,4,Windows 10,2.1,Celeron,1.1,1366x768,1000.0,HDD,Intel,12663.72
+MSI,Gaming,15.6,16,Windows 10,2.4,i7,2.8,1920x1080,256.0,SSD,Nvidia,65465.61
+Acer,Notebook,15.6,4,Windows 10,2.1,Pentium,1.1,1366x768,1000.0,HDD,Intel,13228.13
+Dell,Gaming,15.6,8,Windows 10,2.56,i7,2.8,1920x1080,128.0,SSD,Nvidia,38591.23
+Acer,Notebook,17.3,8,Windows 10,3.0,i5,1.6,1920x1080,256.0,SSD,Nvidia,31077.06
+HP,Notebook,13.3,4,Windows 10,1.49,i5,1.6,1920x1080,500.0,HDD,Intel,27438.06
+Huawei,Ultrabook,13.0,8,Windows 10,1.05,i5,2.5,2160x1440,256.0,SSD,Intel,49090.11
+HP,Notebook,17.3,6,Windows 10,2.71,i5,2.5,1920x1080,2000.0,HDD,AMD,25436.61
+Lenovo,Notebook,15.6,4,No OS,2.2,AMD,2.9,1366x768,500.0,HDD,AMD,11244.51
+Toshiba,Notebook,15.6,4,Windows 10,2.0,i3,2.4,1366x768,500.0,HDD,Intel,17794.71
+HP,Notebook,17.3,8,Windows 10,2.5,i5,1.6,1920x1080,256.0,SSD,Nvidia,33587.97
+Dell,Notebook,15.6,8,Windows 10,2.3,i3,2.4,1366x768,1000.0,HDD,Intel,16703.01
+Acer,Notebook,15.6,4,Windows 10,2.1,i3,2,1366x768,128.0,SSD,Intel,16339.11
+Lenovo,Notebook,15.6,8,Windows 10,1.9,i5,2.5,1920x1080,128.0,SSD,AMD,29585.07
+HP,2 in 1 Convertible,13.3,8,Windows 10,1.29,i5,1.6,3840x2160,256.0,SSD,Intel,54548.61
+Dell,Notebook,15.6,16,Linux,2.02,i7,1.8,1920x1080,256.0,SSD,AMD,38173.11
+Dell,Ultrabook,13.3,8,Windows 10,1.23,i5,1.6,1920x1080,256.0,SSD,Intel,50909.61
+Lenovo,2 in 1 Convertible,13.9,16,Windows 10,1.4,i7,1.8,3840x2160,512.0,SSD,Intel,67285.11
+Toshiba,Notebook,15.6,8,Windows 10,2.0,i5,2.5,1366x768,128.0,SSD,Intel,28857.27
+Xiaomi,Notebook,15.6,8,No OS,1.95,i5,1.6,1920x1080,256.0,SSD,Nvidia,43631.61
+Dell,Notebook,17.3,16,Windows 10,2.77,i7,1.8,1920x1080,512.0,SSD,Nvidia,56368.11
+Lenovo,Gaming,15.6,8,No OS,2.4,i5,2.5,1920x1080,256.0,SSD,Nvidia,28347.81
+Acer,Ultrabook,13.3,8,Windows 10,1.12,i5,1.2,1920x1080,256.0,SSD,Intel,35989.71
+Dell,Notebook,17.3,8,Windows 10,2.8,i7,1.8,1920x1080,128.0,SSD,AMD,39483.15
+Vero,Notebook,14.0,4,Windows 10,1.3,Celeron,1.1,1920x1080,32.0,Flash,Intel,9461.4
+Xiaomi,Ultrabook,13.3,8,No OS,1.3,i5,2.5,1920x1080,256.0,SSD,Nvidia,36386.36
+Lenovo,Notebook,17.3,8,No OS,2.8,i5,1.6,1600x900,256.0,SSD,Nvidia,25400.22
+Dell,2 in 1 Convertible,13.3,8,Windows 10,1.62,i7,1.8,1920x1080,1000.0,HDD,Intel,30531.21
+HP,Notebook,17.3,8,Windows 10,2.5,i5,1.6,1920x1080,1000.0,HDD,Nvidia,33260.46
+HP,Notebook,13.3,8,Windows 10,1.49,i5,1.6,1920x1080,512.0,SSD,Intel,34898.01
+HP,Gaming,17.3,16,Windows 10,3.35,i7,2.8,1920x1080,256.0,SSD,Nvidia,50181.81
+HP,Notebook,17.3,8,Windows 10,2.5,i7,1.8,1920x1080,256.0,SSD,Nvidia,38027.55
+Dell,Gaming,15.6,16,Windows 10,2.65,i7,2.8,3840x2160,512.0,SSD,Nvidia,67139.55
+Lenovo,Notebook,15.6,4,Windows 10,2.1,i5,2.3,1366x768,128.0,SSD,Intel,17940.27
+Acer,Notebook,15.6,8,Windows 10,2.23,i7,2.7,1920x1080,1000.0,HDD,Nvidia,27001.38
+Lenovo,Gaming,15.6,16,Windows 10,3.2,i7,2.8,1920x1080,512.0,SSD,Nvidia,63646.11
+Lenovo,Gaming,15.6,16,No OS,2.4,i7,2.8,1920x1080,512.0,SSD,Nvidia,50873.22
+Dell,Notebook,15.6,6,Windows 10,2.3,i3,2.4,1366x768,1000.0,HDD,Intel,15975.21
+Dell,Ultrabook,13.3,8,Windows 10,1.21,i7,1.8,3840x2160,256.0,SSD,Intel,70924.11
+Dell,Ultrabook,13.3,8,Windows 10,1.2,i7,1.8,1920x1080,256.0,SSD,Intel,52729.11
+Lenovo,Notebook,15.6,8,Windows 10,2.2,i5,2.5,1366x768,256.0,SSD,Intel,21724.83
+Acer,Notebook,15.6,8,Linux,2.4,i7,2.8,1920x1080,1000.0,HDD,Nvidia,28347.81
+Asus,Gaming,17.3,16,Windows 10,2.9,i7,2.8,1920x1080,256.0,SSD,Nvidia,51200.73
+HP,Notebook,15.6,4,No OS,2.1,i3,2,1920x1080,500.0,HDD,Intel,12700.11
+Lenovo,Notebook,15.6,8,No OS,2.2,i5,2.5,1920x1080,256.0,SSD,Intel,19978.11
+Huawei,Ultrabook,13.0,8,Windows 10,1.05,i7,2.7,2160x1440,512.0,SSD,Intel,54548.61
+Dell,Ultrabook,13.3,8,Windows 10,1.4,i7,1.8,1920x1080,256.0,SSD,AMD,33911.11
+Lenovo,Notebook,17.3,8,No OS,2.8,i5,2.5,1600x900,1000.0,HDD,Nvidia,21433.71
+HP,Notebook,14.0,8,Windows 10,1.63,i7,1.8,1920x1080,256.0,SSD,Nvidia,37518.09
+Dell,Ultrabook,14.0,8,Windows 10,1.6,i5,1.6,1920x1080,256.0,SSD,Intel,41812.11
+Dell,2 in 1 Convertible,13.3,16,Windows 10,1.62,i7,1.8,1920x1080,512.0,SSD,Intel,46542.81
+Dell,Notebook,15.6,8,Linux,2.2,i5,1.6,1920x1080,256.0,SSD,AMD,24648.77
+Lenovo,2 in 1 Convertible,14.0,8,Windows 10,1.74,i5,1.6,1920x1080,256.0,SSD,Intel,32714.61
+Toshiba,Ultrabook,13.3,8,Windows 10,1.2,i7,2.5,1920x1080,256.0,SSD,Intel,49599.57
+HP,Notebook,15.6,8,Windows 10,2.1,i5,1.6,1920x1080,1000.0,HDD,Intel,28893.66
+Acer,Notebook,15.6,8,Windows 10,2.2,i7,2.7,1920x1080,256.0,SSD,Nvidia,30276.48
+Dell,Notebook,15.6,16,Windows 10,2.3,i7,2.7,1920x1080,1000.0,HDD,AMD,31259.37
+Asus,Notebook,15.6,8,Windows 10,2.0,i5,2.5,1920x1080,256.0,SSD,Nvidia,27983.91
+Asus,Notebook,17.3,8,Windows 10,2.69,i5,2.5,1920x1080,256.0,SSD,Nvidia,32423.49
+HP,Notebook,15.6,8,Windows 10,1.9,i7,2.7,1920x1080,1000.0,HDD,AMD,46178.91
+Asus,Notebook,15.6,4,Windows 10,2.37,i3,2.4,1366x768,1000.0,HDD,Intel,14519.25
+HP,Notebook,15.6,4,Windows 10,2.1,AMD,1.5,1366x768,500.0,HDD,AMD,12008.7
+Lenovo,Gaming,15.6,16,Windows 10,3.2,i7,2.8,1920x1080,256.0,SSD,Nvidia,54548.61
+Dell,Notebook,14.0,8,Windows 10,1.6,i5,2.5,1920x1080,256.0,SSD,Intel,31259.01
+Acer,2 in 1 Convertible,13.3,8,Windows 10,1.6,i5,2.3,1920x1080,256.0,SSD,Intel,25072.71
+Dell,Notebook,15.6,16,Linux,2.36,i7,2.7,1920x1080,256.0,SSD,AMD,32714.61
+Acer,Notebook,15.6,4,Linux,2.1,i3,2,1366x768,1000.0,HDD,Intel,14192.1
+Asus,Notebook,15.6,4,Windows 10,2.2,AMD,2.5,1920x1080,128.0,SSD,AMD,20924.25
+Acer,Gaming,15.6,8,Windows 10,2.5,i5,2.5,1920x1080,256.0,SSD,Nvidia,30785.94
+Lenovo,Notebook,15.6,8,Windows 10,2.2,i3,2,1366x768,128.0,SSD,Intel,21433.71
+Asus,Notebook,17.3,8,Windows 10,2.1,i7,1.8,1920x1080,128.0,SSD,Nvidia,41666.55
+Asus,Notebook,17.3,8,No OS,2.69,i7,2.7,1920x1080,128.0,SSD,Nvidia,32350.71
+Dell,Gaming,15.6,8,Windows 10,2.56,i5,2.5,1920x1080,256.0,SSD,Nvidia,31986.81
+Lenovo,2 in 1 Convertible,13.9,8,Windows 10,1.38,i7,2.7,1920x1080,256.0,SSD,Intel,39264.81
+Dell,Notebook,15.6,8,Windows 10,2.2,i7,1.8,1920x1080,128.0,SSD,AMD,35844.15
+HP,Notebook,15.6,8,Windows 10,2.04,i5,2.5,1366x768,1000.0,HDD,Intel,20342.01
+HP,Notebook,13.3,4,Windows 10,1.49,i5,1.6,1920x1080,500.0,HDD,Intel,24563.25
+Apple,Ultrabook,13.3,8,macOS,1.37,i5,3.1,2560x1600,512.0,SSD,Intel,74235.6
+Dell,2 in 1 Convertible,15.6,8,Windows 10,2.08,i7,1.8,1920x1080,1000.0,HDD,Intel,29803.41
+Asus,Gaming,17.3,16,Windows 10,4.3,i7,2.8,1920x1080,256.0,SSD,Nvidia,65465.61
+Asus,Notebook,15.6,4,Windows 10,1.68,AMD,3,1366x768,1000.0,HDD,AMD,17066.91
+Lenovo,2 in 1 Convertible,13.9,8,Windows 10,1.37,i7,1.8,1920x1080,512.0,SSD,Intel,67285.11
+Acer,Notebook,17.3,4,Windows 10,3.0,i3,2.7,1920x1080,256.0,SSD,Nvidia,25545.78
+Dell,Ultrabook,13.3,8,Windows 10,1.41,i5,1.6,1920x1080,256.0,SSD,Intel,34534.11
+HP,Notebook,15.6,8,Windows 10,1.91,AMD,2.5,1366x768,128.0,SSD,AMD,16226.3
+HP,Notebook,17.3,16,Windows 10,2.9,i7,1.8,1920x1080,1000.0,HDD,Nvidia,38537.01
+Lenovo,2 in 1 Convertible,15.6,8,Windows 10,2.0,i7,2.8,1920x1080,512.0,SSD,Nvidia,61826.61
+Dell,Notebook,17.3,8,Windows 10,2.8,i7,1.8,1920x1080,128.0,SSD,AMD,41557.38
+Lenovo,Notebook,15.6,4,No OS,2.2,i3,2,1920x1080,256.0,SSD,Intel,16157.16
+HP,Notebook,15.6,4,Windows 10,2.1,i5,1.6,1920x1080,500.0,HDD,Intel,26273.58
+Dell,Notebook,15.6,4,Windows 10,2.18,i5,2.5,1920x1080,1000.0,HDD,Intel,23908.23
+Dell,Notebook,15.6,8,Windows 10,2.24,i5,2.5,1920x1080,1000.0,HDD,AMD,20560.35
+Dell,2 in 1 Convertible,15.6,8,Windows 10,2.67,i5,1.6,1920x1080,256.0,SSD,Intel,29075.61
+Asus,2 in 1 Convertible,13.3,8,Windows 10,1.1,i7,1.8,1920x1080,512.0,SSD,Intel,54548.61
+Lenovo,Notebook,15.6,4,No OS,2.2,i5,2.5,1920x1080,1000.0,HDD,Intel,16994.13
+HP,Notebook,17.3,8,Windows 10,2.5,i7,1.8,1920x1080,1000.0,HDD,Nvidia,37045.02
+Lenovo,Notebook,15.6,8,Windows 10,2.05,i7,1.8,1920x1080,256.0,SSD,Intel,32023.2
+Apple,Ultrabook,13.3,8,macOS,1.37,i5,2.9,2560x1600,512.0,SSD,Intel,71284.37
+Asus,Gaming,17.3,16,Windows 10,3.2,AMD,3,1920x1080,256.0,SSD,AMD,56368.11
+Dell,Notebook,15.6,8,Linux,2.14,i7,1.8,1920x1080,256.0,SSD,AMD,26749.2
+Toshiba,Notebook,15.6,8,Windows 10,2.2,i7,2.5,1366x768,500.0,HDD,Nvidia,29548.68
+Dell,Notebook,15.6,12,Windows 10,2.3,i7,2.7,1366x768,1000.0,HDD,Intel,25948.62
+Dell,Notebook,17.3,8,Linux,2.8,i7,1.8,1920x1080,128.0,SSD,AMD,39992.61
+Acer,Notebook,15.6,8,Windows 10,2.2,i7,1.8,1920x1080,1000.0,HDD,Nvidia,27110.55
+Lenovo,Notebook,17.3,4,Windows 10,2.8,i3,2,1600x900,1000.0,HDD,Intel,17794.71
+Lenovo,Notebook,17.3,8,No OS,2.8,i7,1.8,1920x1080,2000.0,HDD,Nvidia,30895.11
+Lenovo,Notebook,17.3,6,Windows 10,2.8,i7,2.7,1600x900,128.0,SSD,Nvidia,31259.01
+Dell,Notebook,15.6,4,Linux,2.25,i3,2.0,1920x1080,1000.0,HDD,AMD,15574.92
+Lenovo,Gaming,15.6,8,Windows 10,2.5,i5,2.5,1920x1080,256.0,SSD,Nvidia,30167.31
+Lenovo,Notebook,15.6,6,Windows 10,2.2,i5,2.5,1920x1080,256.0,SSD,Intel,21069.81
+Acer,Notebook,15.6,8,Windows 10,3.0,i7,1.8,1920x1080,256.0,SSD,Nvidia,34606.89
+Acer,Notebook,15.6,12,Windows 10,2.15,i7,2.7,1920x1080,1000.0,HDD,Intel,23981.01
+Lenovo,Notebook,15.6,8,Windows 10,1.95,i7,2.7,1920x1080,256.0,SSD,Intel,39919.83
+Asus,Ultrabook,15.6,8,Windows 10,1.7,i5,2.5,1920x1080,256.0,SSD,Nvidia,35553.03
+Lenovo,Gaming,15.6,16,Windows 10,2.5,i7,2.8,1920x1080,256.0,SSD,Nvidia,42903.81
+Lenovo,Notebook,15.6,8,No OS,2.2,i7,2.7,1920x1080,1000.0,HDD,Nvidia,23981.37
+Acer,Notebook,15.6,2,Chrome OS,2.19,Celeron,1.5,1366x768,16.0,SSD,Intel,7241.61
+Asus,Gaming,17.3,8,Windows 10,3.0,i7,2.8,1920x1080,1000.0,HDD,Nvidia,43194.93
+HP,Notebook,17.3,8,Windows 10,2.54,i3,2,1600x900,1000.0,HDD,Intel,17794.71
+Dell,Notebook,15.6,8,Windows 10,2.0,i7,2.8,1920x1080,256.0,SSD,Nvidia,66557.31
+Lenovo,Notebook,15.6,8,Windows 10,2.05,i5,1.6,1920x1080,256.0,SSD,Intel,26892.21
+Lenovo,Gaming,15.6,8,Windows 10,3.2,i7,2.8,1920x1080,1000.0,HDD,Nvidia,47270.61
+Acer,Notebook,15.6,8,Linux,2.5,i7,2.8,1920x1080,256.0,SSD,Nvidia,35625.81
+Lenovo,Notebook,15.6,6,Windows 10,2.4,AMD,2.4,1920x1080,1000.0,HDD,AMD,18158.61
+Asus,Ultrabook,15.6,16,Windows 10,1.63,i7,2.7,1920x1080,512.0,SSD,Nvidia,53420.52
+Asus,Notebook,14.0,4,Windows 10,1.3,i3,2.4,1366x768,128.0,SSD,Intel,18522.51
+Asus,Gaming,17.3,16,Windows 10,2.9,i7,2.8,1920x1080,256.0,SSD,Nvidia,77219.58
+Lenovo,Notebook,17.3,6,Windows 10,2.8,i5,2.5,1600x900,1000.0,HDD,Nvidia,23617.11
+Lenovo,Notebook,15.6,8,No OS,2.2,i5,2.5,1366x768,2000.0,HDD,Nvidia,19978.11
+Asus,Gaming,15.6,8,Windows 10,2.5,i7,2.8,1920x1080,128.0,SSD,Nvidia,46033.35
+Lenovo,Notebook,15.6,4,No OS,2.2,Pentium,1.1,1366x768,1000.0,HDD,Intel,13100.04
+HP,2 in 1 Convertible,13.3,16,Windows 10,1.28,i7,2.8,1920x1080,256.0,SSD,Intel,71870.25
+Toshiba,Notebook,15.6,8,Windows 10,2.2,i7,2.5,1920x1080,256.0,SSD,Nvidia,37954.77
+Lenovo,Notebook,15.6,8,Windows 10,2.3,i5,2.5,1920x1080,128.0,SSD,Nvidia,29803.41
+HP,Notebook,15.6,4,Windows 10,1.86,i3,2,1920x1080,1000.0,HDD,Intel,17066.91
+Lenovo,Notebook,13.3,8,Windows 10,1.1,i5,2.5,1920x1080,256.0,SSD,Intel,36353.61
+MSI,Gaming,15.6,16,Windows 10,2.8,i7,2.8,1920x1080,256.0,SSD,Nvidia,76382.61
+Acer,Notebook,15.6,8,Windows 10,2.23,AMD,2.2,1920x1080,256.0,SSD,AMD,17066.91
+Asus,2 in 1 Convertible,11.6,2,Windows 10,1.1,Celeron,1.1,1366x768,32.0,Flash,Intel,10007.25
+Dell,Notebook,15.6,8,Windows 10,2.33,i5,1.6,1920x1080,128.0,SSD,AMD,30713.16
+Lenovo,Notebook,13.3,4,Chrome OS,1.45,Celeron,1.6,1366x768,16.0,Flash,Intel,16735.76
+HP,Notebook,14.0,8,Windows 10,1.95,i5,2.5,1920x1080,256.0,SSD,Intel,35662.2
+Acer,Notebook,11.6,4,Windows 10,1.4,Pentium,1.6,1366x768,128.0,Flash,Intel,17649.15
+HP,Notebook,14.0,8,Windows 10,1.48,i7,2.7,1920x1080,256.0,SSD,Intel,47015.88
+Lenovo,Notebook,17.3,4,Windows 10,2.79,i5,2.5,1600x900,1000.0,HDD,Nvidia,21433.71
+Asus,Notebook,14.0,8,Windows 10,2.0,i7,2.7,1920x1080,256.0,SSD,Intel,39810.66
+HP,Notebook,15.6,8,Windows 10,2.1,i7,1.8,1366x768,1000.0,HDD,Intel,32823.78
+Acer,Notebook,15.6,8,Windows 10,2.2,AMD,2.7,1366x768,256.0,SSD,AMD,23981.01
+Lenovo,Notebook,14.0,4,Windows 10,1.44,Celeron,1.1,1366x768,32.0,Flash,Intel,10625.88
+Acer,Notebook,15.6,6,Windows 10,2.23,i5,2.5,1366x768,1000.0,HDD,Intel,19978.11
+Asus,Ultrabook,15.6,8,Windows 10,1.7,i7,2.7,1920x1080,256.0,SSD,Nvidia,38205.86
+HP,Ultrabook,12.5,8,Windows 10,1.26,i7,2.7,1920x1080,256.0,SSD,Intel,48580.65
+MSI,Gaming,17.3,8,Windows 10,2.7,i7,2.8,1920x1080,256.0,SSD,Nvidia,43631.61
+Toshiba,Notebook,15.6,8,Windows 10,2.0,i5,2.5,1920x1080,256.0,SSD,Intel,34315.77
+Asus,Notebook,14.0,8,Windows 10,2.0,i7,2.7,1920x1080,256.0,SSD,Intel,48544.26
+Lenovo,Notebook,15.6,4,Windows 10,1.85,i3,2,1920x1080,1000.0,HDD,Intel,16339.11
+Asus,Gaming,15.6,8,Windows 10,2.5,i7,2.8,1920x1080,256.0,SSD,Nvidia,36353.61
+HP,Notebook,14.0,8,Windows 10,1.48,i5,2.6,1920x1080,256.0,SSD,Intel,46142.52
+Dell,Ultrabook,15.6,8,Windows 10,1.9,i5,1.6,1920x1080,128.0,SSD,Nvidia,38173.11
+HP,Notebook,15.6,8,Windows 10,1.84,i5,2.5,1920x1080,256.0,SSD,Intel,41630.16
+Asus,Notebook,15.6,4,Linux,2.0,Celeron,1.1,1366x768,1000.0,HDD,Intel,10006.89
+Dell,Notebook,15.6,8,Windows 10,2.0,i5,1.6,1920x1080,256.0,SSD,Nvidia,41584.67
+Dell,Notebook,15.6,4,Linux,2.2,Celeron,1.6,1366x768,500.0,HDD,Intel,10003.61
+Lenovo,Notebook,15.6,12,Windows 10,2.2,AMD,3.6,1920x1080,2000.0,HDD,AMD,32714.61
+HP,Notebook,15.6,8,Windows 10,2.1,i3,2.4,1920x1080,1000.0,HDD,Nvidia,26055.24
+Lenovo,2 in 1 Convertible,13.9,16,Windows 10,1.4,i7,1.8,3840x2160,512.0,SSD,Intel,76382.61
+Dell,Ultrabook,13.3,8,Windows 10,1.2,i7,1.8,1920x1080,256.0,SSD,Intel,57459.81
+Lenovo,Gaming,15.6,16,Windows 10,2.4,i7,2.8,1920x1080,256.0,SSD,Nvidia,41084.31
+HP,Notebook,14.0,2,Windows 10,1.44,Celeron,1.6,1366x768,32.0,Flash,Intel,10152.81
+Dell,Ultrabook,15.6,16,Windows 10,1.88,i7,1.9,1920x1080,512.0,SSD,Intel,58513.66
+Asus,2 in 1 Convertible,11.6,4,Windows 10,1.5,Celeron,1.1,1366x768,32.0,Flash,Intel,13646.25
+Dell,Ultrabook,15.6,8,Windows 10,1.9,i5,1.6,1920x1080,1000.0,HDD,AMD,24126.57
+Dell,Notebook,15.6,16,Windows 10,2.06,i7,2.8,3840x2160,512.0,SSD,Nvidia,73777.81
+HP,Notebook,15.6,8,Windows 10,1.84,i7,2.7,1920x1080,256.0,SSD,Intel,47452.56
+MSI,Gaming,17.3,8,Windows 10,2.7,i7,2.8,1920x1080,128.0,SSD,Nvidia,51273.51
+HP,Workstation,15.6,8,Windows 10,2.6,i7,2.8,1920x1080,256.0,SSD,Nvidia,63255.65
+Toshiba,Notebook,15.6,16,Windows 10,2.4,i7,2.5,1920x1080,512.0,SSD,Nvidia,51055.17
+Dell,Notebook,15.6,8,Windows 10,2.02,i7,1.8,1920x1080,128.0,SSD,AMD,35331.05
+Lenovo,Notebook,15.6,4,No OS,2.2,Celeron,1.1,1366x768,1000.0,HDD,Intel,11717.22
+Dell,Gaming,15.6,8,Windows 10,2.65,i5,2.5,1920x1080,1000.0,HDD,Nvidia,36353.61
+Dell,Notebook,15.6,8,Windows 10,2.36,i5,2.5,1366x768,2000.0,HDD,Intel,20282.69
+Dell,Notebook,14.0,8,Windows 10,1.36,i5,2.6,1920x1080,256.0,SSD,Intel,51928.53
+HP,Notebook,15.6,4,Windows 10,1.86,i3,2,1366x768,500.0,HDD,Intel,15975.21
+Asus,Notebook,14.0,8,Windows 10,2.0,i5,2.5,1920x1080,256.0,SSD,Intel,34388.55
+Lenovo,Notebook,17.3,6,Windows 10,2.8,i5,2.5,1600x900,128.0,SSD,Nvidia,26164.41
+HP,Notebook,15.6,8,Windows 10,1.86,i5,2.5,1920x1080,1000.0,HDD,Intel,23253.21
+Lenovo,Notebook,15.6,8,No OS,2.2,i3,2,1366x768,256.0,SSD,Nvidia,18158.61
+HP,Notebook,15.6,8,Windows 10,2.04,Pentium,1.6,1366x768,2000.0,HDD,Intel,14155.71
+Dell,Notebook,17.3,8,Windows 10,2.8,i5,1.6,1920x1080,128.0,SSD,AMD,39483.15
+Lenovo,Gaming,15.6,8,No OS,2.4,i5,2.5,1920x1080,128.0,SSD,Nvidia,29439.51
+Dell,Notebook,15.6,8,Windows 10,2.33,i7,2.7,1920x1080,256.0,SSD,AMD,32714.61
+HP,Ultrabook,14.0,8,Windows 10,1.36,i7,2.7,1920x1080,256.0,SSD,Intel,63682.5
+Asus,2 in 1 Convertible,15.6,12,Windows 10,2.26,i7,2.7,1920x1080,512.0,SSD,Nvidia,39992.61
+Acer,Notebook,15.6,4,Windows 10,2.1,AMD,3,1366x768,128.0,SSD,AMD,15502.14
+Lenovo,Notebook,17.3,4,Windows 10,2.6,AMD,2.2,1600x900,128.0,SSD,AMD,17794.71
+Dell,2 in 1 Convertible,13.3,8,Windows 10,1.62,i7,1.8,1920x1080,256.0,SSD,Intel,31623.27
+HP,Notebook,15.6,4,Windows 10,1.91,AMD,3,1920x1080,256.0,SSD,AMD,17794.35
+Lenovo,Netbook,11.6,4,Windows 10,1.59,Celeron,1.1,1366x768,128.0,SSD,Intel,20123.67
+Dell,Notebook,15.6,4,Windows 10,1.8,Celeron,1.60,1366x768,500.0,HDD,Intel,11244.51
+Asus,Notebook,14.0,4,Windows 10,1.5,Celeron,1.1,1366x768,32.0,Flash,Intel,10407.54
+Acer,Notebook,15.6,8,Linux,2.4,i7,2.8,1920x1080,1000.0,HDD,Nvidia,30785.94
+HP,Gaming,17.3,8,Windows 10,3.35,i7,2.8,1920x1080,128.0,SSD,Nvidia,43340.49
+Lenovo,Notebook,15.6,4,No OS,1.85,i3,2,1920x1080,128.0,SSD,Intel,14683.36
+Asus,Gaming,15.6,8,Windows 10,2.3,i7,2.8,1920x1080,128.0,SSD,Nvidia,60225.45
+Lenovo,Notebook,14.0,8,Windows 10,1.5,i5,2.5,1920x1080,256.0,SSD,Nvidia,39992.61
+Asus,Ultrabook,13.3,16,Windows 10,1.1,i7,2.7,1920x1080,512.0,SSD,Intel,63642.47
+Lenovo,Notebook,13.3,4,Windows 10,1.5,i3,2.4,1920x1080,128.0,SSD,Intel,19978.11
+Dell,Workstation,15.6,8,Windows 10,2.23,i5,2.6,1920x1080,500.0,HDD,AMD,49817.91
+Dell,Workstation,15.6,8,Windows 10,2.0,i7,2.7,1920x1080,256.0,SSD,Nvidia,77692.65
+Asus,Gaming,17.3,8,Windows 10,3.0,i7,2.8,1920x1080,1000.0,HDD,Nvidia,37809.21
+Asus,Gaming,17.3,16,Windows 10,3.0,i7,2.8,1920x1080,256.0,SSD,Nvidia,57896.49
+Acer,Notebook,15.6,12,Windows 10,2.2,i5,1.6,1366x768,1000.0,HDD,Nvidia,25254.3
+MSI,Gaming,17.3,8,Windows 10,2.7,i7,2.8,1920x1080,256.0,SSD,Nvidia,49090.11
+Dell,Notebook,15.6,8,Linux,2.33,i7,2.7,1920x1080,256.0,SSD,AMD,28343.08
+HP,Ultrabook,15.6,4,Windows 10,1.91,AMD,3,1920x1080,256.0,SSD,AMD,18158.61
+Lenovo,Notebook,15.6,8,Windows 10,2.1,i7,1.8,1920x1080,256.0,SSD,AMD,44743.69
+Lenovo,Notebook,14.0,8,Windows 10,1.9,i5,2.5,1920x1080,256.0,SSD,Intel,34133.82
+Lenovo,Notebook,15.6,4,Windows 10,2.2,Celeron,1.1,1366x768,1000.0,HDD,Intel,11135.34
+Asus,Gaming,17.3,16,Windows 10,2.9,i7,2.8,1920x1080,256.0,SSD,Nvidia,55640.31
+Lenovo,Notebook,15.6,8,Windows 10,2.1,i5,1.6,1920x1080,256.0,SSD,AMD,41648.36
+Acer,Notebook,15.6,8,Linux,2.5,i7,2.8,1920x1080,256.0,SSD,Nvidia,31986.81
+Asus,Ultrabook,14.0,8,Windows 10,1.1,i7,2.7,1920x1080,512.0,SSD,Intel,68158.47
+Toshiba,Ultrabook,13.3,16,Windows 10,1.2,i7,2.5,1920x1080,512.0,SSD,Intel,63573.33
+Dell,Ultrabook,14.0,8,Windows 10,1.36,i7,2.8,1920x1080,512.0,SSD,Intel,61135.2
+Lenovo,Notebook,15.6,4,Windows 10,2.2,i3,2,1920x1080,500.0,HDD,Intel,14883.51
+Lenovo,Notebook,11.6,2,Windows 10,1.15,Celeron,1.1,1366x768,32.0,Flash,Intel,11078.94
+Lenovo,Workstation,15.6,8,Windows 10,2.67,i7,2.8,1920x1080,512.0,SSD,Nvidia,70050.75
+Lenovo,Ultrabook,14.0,8,Windows 10,1.7,i7,2.8,2560x1440,512.0,SSD,Nvidia,70705.77
+HP,Notebook,15.6,4,Windows 10,2.1,i3,2,1920x1080,1000.0,HDD,AMD,17066.91
+Acer,2 in 1 Convertible,13.3,8,Windows 10,1.6,i7,2.5,1920x1080,256.0,SSD,Intel,28712.07
+Asus,2 in 1 Convertible,13.3,8,Windows 10,1.27,i5,2.5,1920x1080,256.0,SSD,Intel,33769.92
+Dell,Notebook,15.6,4,Linux,2.3,i5,2.5,1920x1080,256.0,SSD,AMD,21793.97
+Dell,Notebook,13.3,4,Windows 10,1.65,i3,2,1366x768,128.0,SSD,Intel,25072.71
+HP,Ultrabook,14.0,8,Windows 10,1.43,i7,2.5,1920x1080,256.0,SSD,Intel,54585.0
+Dell,Notebook,15.6,8,Windows 10,2.14,i5,2.5,1366x768,1000.0,HDD,Intel,19648.78
+Lenovo,Ultrabook,14.0,8,Windows 10,1.75,i7,1.8,1920x1080,256.0,SSD,AMD,44227.68
+Lenovo,2 in 1 Convertible,15.6,16,Windows 10,2.0,i7,2.8,3840x2160,512.0,SSD,Nvidia,69104.61
+Chuwi,Notebook,12.3,6,Windows 10,1.4,Celeron,1.1,2736x1824,64.0,Flash,Intel,16339.11
+HP,Notebook,15.6,8,Windows 10,2.31,i7,2.9,1920x1080,256.0,SSD,Intel,51928.53
+Asus,Notebook,15.6,8,Linux,2.3,i3,2.4,1920x1080,1000.0,HDD,Nvidia,21724.83
+Dell,Gaming,15.6,8,Windows 10,2.62,i7,2.8,1920x1080,128.0,SSD,Nvidia,42176.01
+Dell,Notebook,15.6,8,Windows 10,2.02,i7,1.8,1920x1080,256.0,SSD,AMD,41571.94
+Dell,Ultrabook,14.0,8,Linux,1.6,i7,2.8,1920x1080,256.0,SSD,Intel,39992.61
+HP,Gaming,17.3,12,Windows 10,3.35,i7,2.8,1920x1080,256.0,SSD,Nvidia,72743.61
+Mediacom,2 in 1 Convertible,11.6,4,Windows 10,1.16,Celeron,1.1,1920x1080,32.0,SSD,Intel,10880.61
+Samsung,Netbook,11.6,4,Chrome OS,1.15,Celeron,1.6,1366x768,16.0,Flash,Intel,9788.91
+Lenovo,Notebook,13.3,8,Windows 10,1.4,i7,2.7,1920x1080,256.0,SSD,Intel,36753.9
+Lenovo,Notebook,14.0,4,Windows 10,1.7,i3,2.7,1920x1080,128.0,SSD,Intel,21797.61
+Asus,Gaming,17.3,8,Windows 10,3.2,AMD,3.2,1920x1080,256.0,SSD,AMD,61681.05
+HP,Notebook,15.6,4,Windows 10,2.1,Celeron,1.6,1366x768,500.0,HDD,Intel,12627.33
+Asus,Notebook,15.6,4,Linux,2.0,i5,2.5,1920x1080,256.0,SSD,Intel,20342.01
+Lenovo,Notebook,17.3,8,Windows 10,2.8,AMD,2.5,1600x900,1000.0,HDD,AMD,18886.41
+Dell,Notebook,15.6,4,Windows 10,2.2,i5,1.6,1920x1080,256.0,SSD,AMD,27256.11
+Lenovo,Ultrabook,12.5,8,Windows 10,1.36,i5,2.5,1920x1080,256.0,SSD,Intel,52001.31
+Lenovo,Notebook,15.6,4,Windows 10,2.2,Pentium,1.1,1920x1080,128.0,SSD,Intel,12700.11
+HP,Gaming,15.6,8,Windows 10,2.2,i7,2.8,1920x1080,128.0,SSD,Nvidia,39992.61
+Dell,Notebook,14.0,8,Windows 10,1.64,i5,2.8,1920x1080,256.0,SSD,Nvidia,42903.81
+Acer,Notebook,15.6,4,Linux,2.4,i5,2.5,1366x768,500.0,HDD,Intel,16077.1
+Dell,Workstation,15.6,8,Windows 10,2.23,Xeon,3,1920x1080,64.0,Flash,Nvidia,72525.27
+MSI,Gaming,15.6,8,Windows 10,2.2,i5,2.5,1920x1080,256.0,SSD,Nvidia,37399.46
+HP,Notebook,15.6,8,Windows 10,1.91,i5,2.5,1366x768,128.0,SSD,Intel,21433.71
+Dell,Workstation,15.6,16,Windows 10,2.17,i7,2.7,1920x1080,256.0,SSD,Nvidia,71870.25
+HP,Workstation,15.6,8,Windows 10,2.31,i7,2.9,1920x1080,512.0,SSD,Intel,55822.26
+Lenovo,Notebook,14.0,8,Windows 10,1.65,i5,2.5,1920x1080,256.0,SSD,Intel,48944.55
+Dell,Notebook,15.6,8,Windows 10,2.36,i7,1.8,1920x1080,128.0,SSD,AMD,35625.81
+Dell,2 in 1 Convertible,11.6,4,Windows 10,1.47,Pentium,1.6,1366x768,500.0,HDD,Intel,17430.81
+Dell,Notebook,17.3,8,Windows 10,4.42,i7,2.7,1920x1080,1000.0,HDD,Nvidia,74453.94
+Microsoft,Ultrabook,13.5,4,Windows 10 S,1.25,Core M,2.2,2256x1504,128.0,SSD,Intel,35989.71
+Microsoft,Ultrabook,13.5,8,Windows 10 S,1.25,i7,2.5,2256x1504,256.0,SSD,Intel,65465.61
+HP,Notebook,17.3,8,Windows 10,2.5,i3,2,1600x900,256.0,SSD,Intel,23285.96
+Acer,Notebook,15.6,4,Windows 10,2.23,i3,2,1920x1080,1000.0,HDD,Nvidia,19796.16
+Acer,Netbook,11.6,4,Windows 10,1.4,Celeron,1.6,1366x768,128.0,SSD,Intel,15829.65
+Asus,Notebook,15.6,8,Windows 10,2.37,i5,2.5,1920x1080,1000.0,HDD,Intel,27256.11
+Lenovo,Notebook,14.0,8,No OS,1.5,i7,2.7,1920x1080,512.0,SSD,AMD,29075.61
+Lenovo,Notebook,15.6,8,Windows 10,2.67,i7,2.9,1920x1080,256.0,SSD,Nvidia,76055.1
+Asus,Notebook,15.6,4,Windows 10,2.0,Pentium,1.1,1366x768,500.0,HDD,Intel,11062.56
+Acer,Notebook,15.6,4,Windows 10,2.2,i3,2,1366x768,500.0,HDD,Nvidia,17066.91
+Dell,Notebook,15.6,8,Windows 10,2.02,i5,1.6,1920x1080,2000.0,HDD,AMD,27620.01
+HP,Gaming,17.3,12,Windows 10,3.78,i7,2.8,1920x1080,1000.0,HDD,Nvidia,61826.61
+Lenovo,Ultrabook,14.0,12,Windows 10,1.4,i7,2.6,2560x1440,256.0,SSD,Intel,67612.62
+HP,2 in 1 Convertible,13.3,8,Windows 10,1.29,i7,1.8,3840x2160,512.0,SSD,Intel,72743.61
+HP,Notebook,15.6,8,Windows 10,1.9,i5,2.5,1920x1080,500.0,HDD,AMD,41994.06
+Google,Ultrabook,12.3,8,Chrome OS,1.1,i5,1.2,2400x1600,128.0,SSD,Intel,46397.25
+Dell,Ultrabook,13.3,8,Windows 10,1.42,i5,1.6,1920x1080,256.0,SSD,Intel,67024.92
+Asus,Notebook,15.6,12,Windows 10,2.06,i7,2.6,3840x2160,128.0,SSD,Intel,47270.61
+Dell,Notebook,14.0,8,Windows 10,1.79,i3,2.3,1366x768,128.0,SSD,Intel,26928.6
+Lenovo,Notebook,14.0,8,Windows 10,1.7,i5,2.5,1920x1080,180.0,SSD,Intel,49635.96
+Dell,Notebook,15.6,8,Windows 10,2.2,i5,1.6,1920x1080,1000.0,HDD,AMD,24563.25
+Toshiba,Notebook,13.3,8,Windows 10,1.05,i5,2.5,1920x1080,256.0,SSD,Intel,60844.08
+Dell,Notebook,15.6,8,Windows 10,2.16,i7,1.8,1920x1080,512.0,SSD,Nvidia,45924.18
+Dell,Notebook,15.6,4,Windows 10,2.18,i3,2.4,1366x768,1000.0,HDD,Intel,21346.37
+HP,Notebook,13.3,4,Windows 10,1.49,i5,1.6,1920x1080,128.0,SSD,Intel,26419.14
+Chuwi,Notebook,15.6,4,Windows 10,1.89,Atom,1.44,1920x1080,64.0,Flash,Intel,9057.47
+Lenovo,Notebook,15.6,4,Windows 10,2.3,i3,2.0,1366x768,128.0,SSD,Intel,20560.35
+Lenovo,Notebook,14.0,8,Windows 10,1.75,i5,1.6,1920x1080,256.0,SSD,Intel,38173.11
+Dell,Notebook,15.6,16,Windows 10,2.06,i7,2.8,1920x1080,512.0,SSD,Nvidia,69104.61
+Lenovo,Ultrabook,12.5,16,Windows 10,1.36,i7,2.7,1920x1080,512.0,SSD,Intel,65429.22
+Asus,Ultrabook,12.5,16,Windows 10,0.91,i7,2.7,1920x1080,512.0,SSD,Intel,70960.5
+Lenovo,Notebook,15.6,8,Windows 10,2.3,i5,2.5,1920x1080,256.0,SSD,Nvidia,36826.32
+Asus,Gaming,15.6,8,Windows 10,1.99,i7,2.8,1920x1080,128.0,SSD,Nvidia,49126.5
+Acer,Notebook,15.6,8,Windows 10,2.2,AMD,2.5,1366x768,1000.0,HDD,AMD,21069.81
+Asus,Gaming,17.3,24,Windows 10,4.33,i7,2.6,1920x1080,256.0,SSD,Nvidia,46178.91
+Lenovo,Ultrabook,12.5,8,Windows 10,1.3,i5,2.3,1366x768,180.0,SSD,Intel,39992.61
+Lenovo,Notebook,15.6,8,Windows 10,2.17,i7,1.8,1920x1080,256.0,SSD,Intel,32710.97
+HP,Notebook,14.0,8,Windows 10,1.48,i7,2.8,1920x1080,1000.0,SSD,Intel,63646.11
+Lenovo,Notebook,13.3,8,Windows 10,1.4,i3,2.4,1920x1080,256.0,SSD,Intel,34534.11
+Lenovo,Notebook,15.6,8,Windows 10,2.3,i5,2.5,1920x1080,256.0,SSD,Intel,33151.29
+Asus,Netbook,11.6,4,Windows 10 S,1.2,Celeron,1.1,1366x768,64.0,Flash,Intel,12372.6
+HP,Notebook,15.6,8,Windows 10,1.91,i5,2.5,1366x768,256.0,SSD,AMD,22525.05
+Lenovo,2 in 1 Convertible,13.9,8,Windows 10,1.4,i5,1.6,1920x1080,256.0,SSD,Intel,58187.61
+Lenovo,Notebook,14.0,4,Windows 10,2.1,Celeron,1.1,1366x768,500.0,HDD,Intel,10880.61
+Lenovo,Netbook,11.6,4,Chrome OS,1.25,Celeron,1.6,1366x768,16.0,SSD,Intel,9643.35
+Lenovo,Notebook,13.3,8,Windows 10,1.44,i5,2.5,1920x1080,256.0,SSD,Intel,34534.11
+Asus,Notebook,15.6,8,Windows 10,2.0,i7,2.7,1920x1080,256.0,SSD,Intel,44541.36
+Acer,Notebook,15.6,4,Windows 10,2.2,i5,1.6,1920x1080,1000.0,HDD,Nvidia,22307.07
+HP,Ultrabook,13.3,8,Windows 10,1.34,i7,2.7,1920x1080,512.0,SSD,Intel,48143.97
+Lenovo,Gaming,15.6,8,No OS,2.4,i7,2.8,1920x1080,256.0,SSD,Nvidia,41812.11
+Dell,Ultrabook,13.3,8,Windows 10,1.29,i5,2.5,1920x1080,128.0,SSD,Intel,32714.61
+Acer,Notebook,15.6,4,Windows 10,2.2,i7,2.7,1920x1080,500.0,HDD,Nvidia,23253.21
+Dell,Notebook,15.6,8,Windows 10,2.18,i5,2.5,1920x1080,1000.0,HDD,Intel,30422.04
+Dell,Notebook,15.6,16,Windows 10,2.2,i7,1.8,1920x1080,256.0,SSD,AMD,44368.14
+Xiaomi,Notebook,15.6,16,No OS,1.95,i7,1.8,1920x1080,256.0,SSD,Nvidia,50944.18
+Asus,Netbook,11.6,2,Windows 10,1.1,Celeron,1.1,1366x768,32.0,Flash,Intel,8915.55
+HP,Notebook,15.6,4,Windows 10,2.04,i5,1.6,1366x768,1000.0,HDD,Intel,18976.29
+HP,Notebook,15.6,8,Windows 10,2.04,i5,2.5,1920x1080,256.0,SSD,Nvidia,32350.71
+Asus,Gaming,17.3,16,Windows 10,3.0,i7,2.8,1920x1080,256.0,SSD,Nvidia,54730.56
+Lenovo,Gaming,15.6,8,Windows 10,3.2,i7,2.8,1920x1080,256.0,SSD,Nvidia,50909.61
+HP,Ultrabook,13.3,8,Windows 10,1.32,i7,2.7,1920x1080,256.0,SSD,Intel,50909.61
+Dell,Notebook,14.0,8,Windows 10,1.64,i5,2.6,1920x1080,256.0,SSD,Intel,46569.37
+HP,Notebook,15.6,4,Windows 10,1.63,i3,2,1366x768,128.0,SSD,Intel,25072.71
+Dell,Notebook,17.3,8,Linux,2.8,i5,1.6,1920x1080,128.0,SSD,AMD,32350.71
+Lenovo,Notebook,14.0,8,Windows 7,2.02,i5,2.3,1920x1080,256.0,SSD,Intel,48762.6
+Lenovo,Notebook,15.6,4,Windows 10,2.2,i7,2.7,1920x1080,1000.0,HDD,Nvidia,29075.61
+Lenovo,Notebook,15.6,8,No OS,2.2,i3,2,1366x768,2000.0,HDD,Nvidia,16703.01
+Dell,Notebook,15.6,4,Windows 10,2.3,i5,2.5,1920x1080,500.0,HDD,AMD,21288.15
+Dell,Notebook,15.6,8,Windows 10,1.9,i5,2.8,1920x1080,256.0,SSD,Intel,50109.03
+Toshiba,Notebook,15.6,8,Windows 10,2.0,i5,2.5,1920x1080,500.0,HDD,Intel,31295.4
+Asus,Notebook,15.6,8,Windows 10,2.0,i7,2.7,3840x2160,256.0,SSD,Nvidia,47270.61
+Mediacom,Notebook,13.3,4,Windows 10,1.2,Celeron,1.1,1920x1080,32.0,SSD,Intel,13427.91
+Asus,Gaming,15.6,8,Windows 10,2.3,i5,2.5,1920x1080,128.0,SSD,Nvidia,60007.11
+Dell,Notebook,15.6,8,Windows 10,1.93,i7,2.8,1920x1080,256.0,SSD,Nvidia,49817.91
+Dell,Notebook,15.6,8,Windows 10,2.2,i5,1.6,1920x1080,256.0,SSD,AMD,29017.75
+HP,Notebook,15.6,4,Windows 10,1.86,Pentium,1.6,1920x1080,256.0,SSD,Intel,14519.25
+HP,Gaming,17.3,12,Windows 10,2.62,i7,2.8,1920x1080,1000.0,HDD,Nvidia,65465.61
+Lenovo,Notebook,14.0,8,Windows 10,1.87,i7,2.7,1920x1080,256.0,SSD,Nvidia,31259.01
+Dell,Ultrabook,13.3,8,Windows 10,1.2,i7,1.8,3200x1800,256.0,SSD,Intel,50909.61
+Dell,Notebook,14.0,4,Windows 10,1.6,i3,2,1920x1080,128.0,SSD,Intel,26778.31
+HP,Ultrabook,13.3,8,Windows 10,1.34,i7,2.7,3200x1800,256.0,SSD,Intel,41666.55
+Acer,Gaming,15.6,8,Linux,2.4,i5,2.5,1920x1080,1000.0,HDD,Nvidia,29039.22
+Asus,Notebook,15.6,4,Windows 10,2.0,AMD,1.8,1366x768,500.0,HDD,AMD,12700.11
+HP,Notebook,15.6,4,Windows 10,2.1,i3,2.4,1920x1080,128.0,SSD,Intel,25673.15
+Lenovo,Notebook,14.0,4,Windows 10,1.87,i5,2.5,1920x1080,500.0,HDD,Intel,28566.15
+Lenovo,Notebook,15.6,4,No OS,2.15,i5,2.3,1920x1080,1000.0,HDD,Intel,16824.92
+HP,Notebook,15.6,4,Windows 10,1.86,i3,2,1920x1080,500.0,HDD,Intel,14446.83
+Lenovo,Notebook,15.6,8,Windows 10,1.99,i7,2.7,1920x1080,512.0,SSD,Intel,62918.31
+Lenovo,Notebook,15.6,4,Windows 10,2.2,i3,2,1920x1080,128.0,SSD,Intel,18158.61
+Dell,Notebook,15.6,8,Windows 10,1.9,i5,2.5,1920x1080,256.0,SSD,Intel,40647.27
+HP,Notebook,17.3,8,Windows 10,2.65,i3,2,1600x900,1000.0,HDD,Intel,19801.62
+HP,Notebook,17.3,8,Windows 10,2.63,i7,2.7,1920x1080,1000.0,HDD,Nvidia,46579.2
+Asus,Notebook,15.6,4,Linux,2.0,Celeron,1.1,1366x768,500.0,HDD,Intel,8151.36
+Mediacom,Notebook,13.3,4,Windows 10,1.35,Atom,1.44,1920x1080,32.0,Flash,Intel,9279.45
+Lenovo,Notebook,17.3,6,Windows 10,2.8,i7,2.7,1600x900,128.0,SSD,Nvidia,34534.11
+HP,Notebook,15.6,6,Windows 10,1.91,AMD,2.5,1920x1080,128.0,SSD,AMD,20702.27
+Dell,Notebook,15.6,4,Windows 10,2.18,i3,2,1366x768,1000.0,HDD,AMD,22485.38
+Acer,2 in 1 Convertible,11.6,4,Windows 10,1.25,Celeron,2.0,1920x1080,32.0,Flash,Intel,12700.11
+Lenovo,Notebook,15.6,4,Windows 10,2.05,i3,2.7,1920x1080,128.0,SSD,Intel,22925.7
+HP,Ultrabook,13.3,16,Windows 10,1.16,Core M,1.2,3200x1800,512.0,SSD,Intel,71506.35
+Asus,Notebook,15.6,8,Windows 10,2.5,i5,2.5,1920x1080,128.0,SSD,Nvidia,30531.21
+Dell,Ultrabook,13.3,8,Windows 10,1.21,i5,1.6,3840x2160,128.0,SSD,Intel,58187.61
+Dell,Notebook,15.6,4,Windows 10,1.93,i5,2.6,1366x768,500.0,HDD,Intel,34898.01
+Fujitsu,Notebook,15.6,8,Windows 10,2.2,i5,2.5,1366x768,1000.0,HDD,Intel,26892.21
+Lenovo,Notebook,15.6,4,Windows 10,2.2,Pentium,1.1,1920x1080,500.0,HDD,Intel,12518.16
+Lenovo,Notebook,14.0,4,Windows 10,2.02,i5,2.5,1366x768,500.0,HDD,Intel,36026.1
+HP,Workstation,17.3,8,Windows 10,3.14,i5,2.8,1600x900,500.0,HDD,Nvidia,67721.43
+HP,Notebook,14.0,8,Windows 10,1.94,Pentium,1.6,1366x768,2000.0,HDD,Intel,14155.71
+HP,Notebook,15.6,6,Windows 10,1.95,AMD,3,1920x1080,256.0,SSD,AMD,23617.11
+Lenovo,Notebook,15.6,8,Windows 10,2.3,i5,2.5,1920x1080,256.0,SSD,Intel,30203.7
+Lenovo,Notebook,15.6,4,Windows 10,2.05,i5,1.6,1920x1080,500.0,HDD,Intel,24927.15
+Mediacom,Notebook,14.0,4,Windows 10,1.4,Atom,1.44,1920x1080,32.0,SSD,Intel,9061.11
+Toshiba,Ultrabook,14.0,16,Windows 10,1.24,i7,2.7,1920x1080,512.0,SSD,Intel,67867.35
+Dell,Notebook,15.6,8,Linux,2.2,i7,2.7,1920x1080,256.0,SSD,AMD,27256.47
+Mediacom,Notebook,14.0,4,Windows 10,1.45,Celeron,1.1,1920x1080,32.0,SSD,Intel,14155.71
+Dell,Notebook,15.6,8,Windows 10,1.9,i5,2.6,1366x768,500.0,HDD,Intel,36700.04
+HP,Notebook,13.3,4,Windows 10,1.49,i3,2.4,1920x1080,128.0,SSD,Intel,26164.41
+Dell,Notebook,15.6,16,Windows 10,1.93,i7,2.8,1920x1080,256.0,SSD,Nvidia,55945.62
+Dell,Netbook,11.6,4,Chrome OS,1.26,Celeron,1.6,1366x768,16.0,Flash,Intel,10735.05
+HP,Gaming,17.3,16,Windows 10,3.78,i7,2.8,1920x1080,256.0,SSD,Nvidia,54512.22
+Lenovo,Ultrabook,14.0,12,Windows 10,1.4,i7,2.6,1920x1080,256.0,SSD,Intel,60880.47
+Lenovo,Notebook,15.6,12,Windows 10,2.2,i7,1.8,1366x768,1000.0,HDD,Intel,22161.51
+Asus,Gaming,17.3,8,Windows 10,2.73,i5,2.5,1920x1080,128.0,SSD,Nvidia,64410.3
+Asus,2 in 1 Convertible,15.6,8,Windows 10,2.2,i5,2.5,1366x768,1000.0,HDD,Intel,26892.21
+Lenovo,Notebook,15.6,12,Windows 10,2.2,AMD,3.6,1920x1080,512.0,SSD,AMD,34534.11
+Dell,2 in 1 Convertible,11.6,4,Windows 10,1.39,Core M,1.0,1366x768,128.0,SSD,Intel,21943.17
+Samsung,Notebook,15.6,16,Windows 10,2.5,i7,2.8,1920x1080,128.0,SSD,Nvidia,61826.61
+Lenovo,Notebook,17.3,4,No OS,2.8,i3,2,1920x1080,500.0,HDD,Intel,19250.31
+Lenovo,Notebook,15.6,8,Windows 10,2.29,i3,2.3,1366x768,1000.0,HDD,Intel,16703.01
+Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.37,i7,2.7,1920x1080,512.0,SSD,Intel,73689.75
+Lenovo,Notebook,14.0,8,Windows 10,1.7,i5,2.5,1920x1080,256.0,SSD,Intel,53638.86
+Dell,2 in 1 Convertible,12.5,8,Windows 10,1.34,i5,2.5,1920x1080,256.0,SSD,Intel,60771.3
+Dell,Workstation,15.6,8,Windows 10,2.06,i7,2.8,1920x1080,256.0,SSD,Nvidia,64155.57
+HP,Notebook,15.6,8,Windows 10,1.84,i7,2.7,1920x1080,256.0,SSD,Intel,44359.41
+HP,Notebook,15.6,4,Windows 10,2.1,i3,2.4,1366x768,500.0,HDD,Intel,24325.99
+Acer,Notebook,14.0,4,Windows 10,1.6,Celeron,1.1,1920x1080,32.0,Flash,Intel,11972.31
+Dell,Notebook,15.6,4,Linux,2.18,i3,2,1366x768,1000.0,HDD,AMD,16921.35
+Toshiba,Notebook,15.6,8,Windows 10,2.2,i7,2.5,1920x1080,256.0,SSD,Intel,50909.61
+Lenovo,Notebook,15.6,6,Windows 10,2.4,i5,2.5,1920x1080,1000.0,HDD,Intel,20523.96
+Lenovo,2 in 1 Convertible,15.6,8,Windows 10,2.0,i7,2.8,1920x1080,256.0,SSD,Intel,47270.61
+Acer,Notebook,14.0,4,Windows 10,1.6,Pentium,1.6,1366x768,128.0,Flash,Intel,12700.11
+Dell,Gaming,15.6,16,Windows 10,2.59,i7,2.6,1920x1080,1000.0,HDD,Nvidia,31987.17
+Dell,Notebook,15.6,4,Linux,2.18,i3,2.0,1366x768,1000.0,HDD,Intel,16153.52
+Dell,Notebook,15.6,4,Linux,2.25,i3,2.0,1366x768,1000.0,HDD,Intel,13064.01
+Dell,Notebook,15.6,4,Linux,1.93,i5,2.6,1366x768,500.0,HDD,Intel,31622.91
+Asus,Gaming,17.3,8,Windows 10,3.0,i7,2.8,1920x1080,128.0,SSD,Nvidia,42503.52
+Dell,Notebook,15.6,4,Linux,2.18,i5,2.5,1920x1080,128.0,SSD,AMD,20705.91
+HP,Ultrabook,15.6,8,Windows 10,1.84,i7,2.7,1920x1080,512.0,SSD,Intel,50545.71
+Acer,2 in 1 Convertible,11.6,4,Chrome OS,1.25,Celeron,1.6,1366x768,32.0,Flash,Intel,13791.81
+HP,Notebook,14.0,8,Windows 10,2.31,i5,2.6,1366x768,256.0,SSD,Intel,40902.36
+Lenovo,Notebook,14.0,8,Windows 7,1.65,i5,2.3,1920x1080,256.0,SSD,Intel,53311.35
+Dell,Notebook,15.6,4,Windows 10,2.2,i5,1.6,1920x1080,1000.0,HDD,AMD,28238.64
+Fujitsu,Notebook,15.6,8,Windows 10,2.2,i5,2.5,1366x768,256.0,SSD,Intel,29075.61
+HP,Notebook,15.6,4,Windows 7,1.88,i5,2.3,1366x768,500.0,HDD,Intel,33915.48
+Lenovo,Notebook,15.6,8,Windows 10,2.2,i7,2.7,1920x1080,1000.0,HDD,Nvidia,32714.61
+Mediacom,Notebook,14.0,2,Windows 10,1.4,Atom,1.44,1920x1080,32.0,Flash,Intel,8697.21
+Lenovo,Notebook,15.6,4,No OS,2.2,i5,2.5,1920x1080,128.0,SSD,Intel,17030.52
+Asus,2 in 1 Convertible,13.3,6,Windows 10,1.5,i5,2.5,1920x1080,1000.0,HDD,Intel,23253.57
+Dell,Notebook,15.6,8,Windows 10,2.0,i7,2.8,1920x1080,256.0,SSD,Nvidia,66229.8
+Asus,Ultrabook,14.0,16,Windows 10,1.1,i7,2.7,1920x1080,512.0,SSD,Intel,69141.0
+Dell,Gaming,15.6,16,Windows 10,2.62,i7,2.8,1920x1080,256.0,SSD,Nvidia,53820.81
+Lenovo,Notebook,15.6,4,Windows 10,1.8,i5,1.6,1920x1080,256.0,SSD,Intel,30167.31
+Lenovo,Notebook,15.6,4,Windows 10,2.2,i3,2,1920x1080,1000.0,HDD,Nvidia,21069.81
+Asus,Notebook,15.6,8,Windows 10,2.0,Celeron,1.1,1366x768,1000.0,HDD,Intel,14519.61
+Asus,Notebook,15.6,8,Windows 10,1.99,i5,2.5,1920x1080,1000.0,HDD,Nvidia,32991.9
+Dell,Ultrabook,13.3,8,Windows 10,1.23,i5,1.6,3200x1800,256.0,SSD,Intel,68012.91
+Lenovo,Notebook,14.0,2,Windows 10,1.42,Celeron,1.6,1366x768,32.0,Flash,Intel,9061.11
+Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.37,i7,2.7,1920x1080,256.0,SSD,Intel,63952.51
+Lenovo,Gaming,15.6,8,Windows 10,2.5,i7,2.8,1920x1080,128.0,SSD,Nvidia,40356.51
+HP,Notebook,17.0,8,Windows 10,2.6,AMD,3,1600x900,1000.0,HDD,AMD,18955.55
+Asus,Gaming,15.6,8,No OS,2.5,i7,2.8,1920x1080,1000.0,HDD,Nvidia,42539.91
+Acer,Notebook,15.6,4,Windows 10,2.4,i3,2,1366x768,500.0,HDD,Intel,16375.5
+Lenovo,Notebook,14.0,4,Windows 10,1.43,Celeron,1.6,1366x768,32.0,Flash,Intel,9970.86
+Acer,Ultrabook,14.0,8,Windows 10,1.8,i5,2.5,1920x1080,256.0,SSD,Intel,33442.41
+Toshiba,Notebook,13.3,8,Windows 10,1.2,i5,2.3,1920x1080,256.0,SSD,Intel,44141.07
+Lenovo,Ultrabook,12.5,8,Windows 10,1.36,i7,2.7,1920x1080,256.0,SSD,Intel,57641.76
+Acer,Gaming,15.6,8,Linux,2.4,i5,2.5,1920x1080,1000.0,HDD,Nvidia,25800.51
+Dell,Ultrabook,13.3,8,Windows 10,1.2,i5,1.6,1920x1080,256.0,SSD,Intel,52761.86
+MSI,Gaming,15.6,8,Windows 10,2.2,i7,2.8,1920x1080,128.0,SSD,Nvidia,43369.6
+HP,Notebook,15.6,4,No OS,1.86,i3,2,1366x768,500.0,HDD,Intel,13278.71
+Toshiba,Notebook,15.6,8,Windows 10,2.0,i5,2.5,1920x1080,500.0,HDD,Intel,38718.96
+Dell,Notebook,15.6,8,Windows 10,2.2,i7,1.8,1920x1080,256.0,SSD,AMD,33442.41
+Dell,Notebook,15.6,16,Windows 10,2.2,i7,1.8,1920x1080,256.0,SSD,AMD,41302.65
+Lenovo,Gaming,15.6,8,Windows 10,3.31,i7,2.6,1920x1080,128.0,SSD,Nvidia,43522.44
+Dell,Notebook,14.0,8,Windows 10,1.56,i5,2.4,1920x1080,256.0,SSD,Intel,44723.31
+Lenovo,Notebook,15.6,4,Windows 10,2.2,Celeron,1.1,1366x768,500.0,HDD,Intel,15247.41
+Lenovo,Notebook,15.6,4,Windows 10,2.2,i5,2.3,1920x1080,500.0,HDD,Intel,19468.65
+HP,Notebook,15.6,6,Windows 10,2.04,i3,2,1920x1080,1000.0,HDD,AMD,19614.21
+MSI,Gaming,17.3,8,Windows 10,2.7,i7,2.8,1920x1080,128.0,SSD,Nvidia,54103.56
+Toshiba,Notebook,15.6,4,Windows 10,2.1,i3,2.1,1366x768,128.0,SSD,Intel,18122.22
+Dell,Notebook,15.6,8,Windows 10,2.06,i5,2.5,1920x1080,1000.0,HDD,Intel,34752.45
+HP,Notebook,15.6,8,Windows 10,2.1,i7,2.7,1920x1080,1000.0,HDD,AMD,27110.55
+Toshiba,Notebook,15.6,8,Windows 10,2.0,i5,2.5,1920x1080,256.0,SSD,Intel,45778.62
+Acer,Notebook,15.6,4,Linux,2.1,i3,2,1366x768,128.0,SSD,Intel,14992.68
+Microsoft,Ultrabook,13.5,8,Windows 10 S,1.25,i7,2.8,2256x1504,256.0,SSD,Intel,67971.06
+Lenovo,Notebook,15.6,8,Windows 10,1.9,i5,2.5,1920x1080,128.0,SSD,AMD,29765.2
+Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.3,i5,2.5,1920x1080,256.0,SSD,Intel,37627.26
+Lenovo,Notebook,15.6,4,Windows 10,2.2,AMD,2.2,1366x768,128.0,SSD,AMD,12700.11
+HP,2 in 1 Convertible,14.0,4,Windows 10,1.63,i3,2.4,1920x1080,128.0,SSD,Nvidia,25436.61
+MSI,Gaming,15.6,16,Windows 10,2.4,i7,2.8,1920x1080,256.0,SSD,Nvidia,47088.66
+Asus,Ultrabook,14.0,8,Windows 10,1.1,i5,2.5,1920x1080,256.0,SSD,Intel,41302.65
+HP,2 in 1 Convertible,11.6,8,Chrome OS,1.4,Celeron,1.1,1366x768,64.0,Flash,Intel,18013.05
+Acer,Gaming,15.6,16,Windows 10,2.5,i5,2.5,1920x1080,256.0,SSD,Nvidia,47270.61
+MSI,Gaming,15.6,8,Windows 10,2.2,i5,2.5,1920x1080,256.0,SSD,Nvidia,36313.58
+Asus,Notebook,15.6,4,Windows 10,1.86,Celeron,1.1,1366x768,128.0,SSD,Intel,15247.41
+Dell,Gaming,15.6,16,Windows 10,3.21,i5,2.5,1920x1080,128.0,SSD,Nvidia,74635.89
+HP,Notebook,17.3,4,Windows 10,2.5,i3,2,1920x1080,256.0,SSD,AMD,25436.61
+Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.19,i7,1.8,1920x1080,512.0,SSD,Intel,54548.61
+HP,Notebook,15.6,4,Windows 10,1.86,i5,2.5,1366x768,500.0,HDD,AMD,22292.88
+Dell,Notebook,15.6,4,Windows 10,2.2,i3,2,1366x768,1000.0,HDD,AMD,19856.93
+HP,Notebook,17.3,6,Windows 10,2.65,AMD,2.4,1920x1080,2000.0,HDD,AMD,20705.91
+Lenovo,Notebook,15.6,4,Windows 10,2.1,Celeron,1.6,1366x768,500.0,HDD,Intel,11572.02
+Acer,Notebook,14.0,4,Chrome OS,1.45,Celeron,1.6,1366x768,32.0,Flash,Intel,13646.25
+Lenovo,Notebook,14.0,4,Windows 10,1.7,i5,2.5,1920x1080,256.0,SSD,Intel,25436.61
+HP,Workstation,17.3,8,Windows 10,3.14,i7,2.8,1920x1080,500.0,HDD,Nvidia,69431.76
+Toshiba,Notebook,13.3,8,Windows 10,1.5,i5,2.5,1920x1080,256.0,SSD,Intel,35407.47
+Acer,Netbook,11.6,4,Windows 10,1.4,Celeron,1.6,1366x768,32.0,Flash,Intel,9788.91
+Lenovo,2 in 1 Convertible,14.0,16,Windows 10,1.38,i7,2.7,1920x1080,512.0,SSD,Intel,63646.11
+Asus,2 in 1 Convertible,12.5,4,Chrome OS,1.2,Core M,0.9,1920x1080,64.0,Flash,Intel,24344.91
+Toshiba,Ultrabook,13.3,16,Windows 10,1.36,i7,2.5,1920x1080,512.0,SSD,Intel,68304.03
+HP,Notebook,15.6,4,Windows 10,2.1,i7,2.7,1920x1080,500.0,HDD,AMD,25072.71
+Dell,Gaming,15.6,8,Windows 10,2.56,i5,2.5,1920x1080,1000.0,HDD,Nvidia,29803.41
+Lenovo,Notebook,15.6,4,Windows 10,2.2,AMD,2.9,1920x1080,256.0,SSD,AMD,14519.61
+Lenovo,Notebook,15.6,8,Windows 10,2.2,AMD,3.6,1366x768,1000.0,HDD,AMD,15611.31
+Lenovo,Notebook,15.6,4,Windows 10,2.1,i5,2.5,1920x1080,1000.0,HDD,Intel,22614.57
+Lenovo,Notebook,15.6,4,No OS,1.9,i3,2,1366x768,500.0,HDD,Intel,16375.5
+Dell,Notebook,15.6,8,Windows 10,2.18,i5,2.5,1920x1080,256.0,SSD,Intel,28930.05
+Acer,2 in 1 Convertible,13.3,8,Windows 10,1.6,i5,1.6,1920x1080,256.0,SSD,Intel,36353.61
+Lenovo,Workstation,15.6,16,Windows 7,2.18,i7,2.5,1920x1080,512.0,SSD,Nvidia,67503.45
+Lenovo,Notebook,14.0,8,Windows 10,1.8,i5,2.3,1920x1080,256.0,SSD,Intel,43340.49
+HP,Notebook,17.3,6,Windows 10,2.71,AMD,2.5,1920x1080,2000.0,HDD,AMD,23835.81
+Lenovo,Gaming,15.6,8,Windows 10,2.5,i7,2.8,1920x1080,128.0,SSD,Nvidia,45451.11
+Dell,Notebook,14.0,8,Linux,1.64,i5,2.8,1920x1080,256.0,SSD,Nvidia,39628.71
+Dell,Notebook,15.6,8,Linux,1.98,i5,2.5,1920x1080,1000.0,HDD,Intel,26419.14
+Asus,Notebook,14.0,4,Windows 10,1.5,Celeron,1.1,1920x1080,32.0,Flash,Intel,10844.22
+Dell,Notebook,15.6,16,Windows 10,1.93,i5,2.6,1920x1080,512.0,SSD,Intel,51916.16
+Lenovo,Notebook,14.0,8,Windows 10,1.87,i5,2.5,1920x1080,256.0,SSD,Nvidia,31188.78
+Dell,Notebook,15.6,8,Windows 10,1.9,i5,2.6,1920x1080,256.0,SSD,Intel,42903.81
+Lenovo,Notebook,15.6,4,Windows 10,2.19,AMD,2,1366x768,500.0,HDD,AMD,10844.22
+Mediacom,Notebook,14.0,4,Windows 10,1.4,Atom,1.92,1920x1200,32.0,HDD,Intel,9643.35
+HP,Notebook,17.3,8,Windows 10,2.63,i7,2.7,1920x1080,256.0,SSD,Nvidia,43668.0
+Lenovo,Ultrabook,14.0,8,Windows 10,1.17,i7,2.5,2560x1440,512.0,SSD,Intel,61376.83
+HP,2 in 1 Convertible,13.3,8,Windows 10,1.58,i5,2.5,1366x768,256.0,SSD,Intel,30443.87
+Lenovo,Ultrabook,14.0,8,Windows 10,1.32,i5,2.5,1920x1080,256.0,SSD,Intel,54548.61
+MSI,Gaming,17.3,8,Windows 10,2.7,i7,2.8,1920x1080,128.0,SSD,Nvidia,49071.19
+Lenovo,Notebook,15.6,4,No OS,1.9,i5,2.5,1366x768,1000.0,HDD,Intel,17827.46
+Dell,Notebook,15.6,8,Windows 10,2.2,i5,1.6,1920x1080,128.0,SSD,AMD,26164.41
+Dell,2 in 1 Convertible,13.3,4,Windows 10,1.71,i3,2.4,1920x1080,1000.0,HDD,Intel,23617.11
+Dell,Notebook,15.6,8,Linux,2.32,i5,2.5,1366x768,1000.0,HDD,AMD,21452.63
+HP,Notebook,15.6,4,Windows 10,2.1,AMD,3,1920x1080,1000.0,HDD,AMD,17794.71
+Acer,Gaming,17.3,16,Windows 10,4.2,i7,2.6,1920x1080,128.0,SSD,Nvidia,70414.65
+Dell,Notebook,15.6,12,Windows 10,2.25,i5,2.5,1366x768,1000.0,HDD,Intel,23617.11
+HP,Notebook,15.6,6,Windows 10,2.1,AMD,3,1920x1080,128.0,SSD,AMD,23653.5
+Acer,Notebook,15.6,4,Windows 10,2.4,i5,2.5,1366x768,500.0,HDD,Intel,20342.01
+Lenovo,Notebook,13.3,8,Windows 10,1.44,i5,2.5,1920x1080,256.0,SSD,Intel,34934.4
+Lenovo,Notebook,15.6,4,Windows 10,1.85,i7,2.7,1920x1080,1000.0,HDD,Intel,28347.81
+Dell,2 in 1 Convertible,13.3,8,Windows 10,1.55,i5,1.6,1920x1080,1000.0,HDD,Intel,23981.01
+MSI,Gaming,15.6,16,Windows 10,1.8,i7,2.8,1920x1080,256.0,SSD,Nvidia,76218.13
+Acer,Notebook,15.6,4,Windows 10,2.4,i3,2,1366x768,500.0,HDD,Intel,14949.01
+Dell,Notebook,15.6,8,Windows 10,2.0,i7,2.7,1920x1080,128.0,SSD,Nvidia,43922.73
+Dell,Notebook,15.6,8,Windows 10,2.0,i3,2,1366x768,256.0,SSD,Intel,24199.35
+Toshiba,Notebook,14.0,8,Windows 10,1.25,i5,2.5,1920x1080,256.0,SSD,Intel,55858.65
+Lenovo,2 in 1 Convertible,14.0,8,Windows 10,1.7,i5,2.5,1920x1080,256.0,SSD,Intel,36353.61
+Acer,Notebook,14.0,2,Chrome OS,1.68,Celeron,1.6,1366x768,32.0,Flash,Intel,12008.7
+Samsung,Ultrabook,13.3,16,Windows 10,0.81,i7,2.7,1920x1080,256.0,SSD,Intel,60007.11
+HP,Notebook,15.6,8,Windows 10,1.86,i3,2,1920x1080,256.0,SSD,Intel,19614.21
+Dell,Notebook,14.0,8,Windows 10,1.6,i5,2.5,1366x768,256.0,SSD,Intel,41000.98
+Lenovo,Netbook,11.6,4,Windows 10,1.4,Celeron,1.6,1366x768,128.0,SSD,Intel,17285.25
+HP,Notebook,15.6,8,Windows 10,1.84,i5,2.4,1920x1080,256.0,SSD,Intel,69141.0
+Asus,Notebook,15.6,4,No OS,2.45,i5,2.3,1366x768,1000.0,HDD,Nvidia,21069.81
+Lenovo,Ultrabook,14.0,4,Windows 10,1.7,i5,2.3,1920x1080,180.0,SSD,Intel,39883.44
+Asus,Notebook,15.6,4,Windows 10,2.37,i7,2.7,1366x768,256.0,SSD,Intel,30927.86
+Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.3,i5,1.8,3200x1800,256.0,SSD,Intel,43631.61
+HP,Notebook,15.6,8,Windows 10,2.2,i5,2.5,1920x1080,128.0,SSD,Nvidia,39992.61
+HP,Workstation,15.6,8,Windows 7,2.59,i7,2.6,1920x1080,256.0,SSD,Nvidia,56804.79
+Acer,Notebook,15.6,4,Windows 10,2.1,i5,2.5,1366x768,256.0,SSD,Intel,21797.61
+Lenovo,Gaming,15.6,8,Windows 10,2.5,i7,2.8,1920x1080,128.0,SSD,Nvidia,38136.72
+Dell,Ultrabook,12.5,16,Windows 10,1.18,i7,2.8,1920x1080,256.0,SSD,Intel,67649.01
+Google,Ultrabook,12.3,8,Chrome OS,1.1,i5,1.2,2400x1600,256.0,SSD,Intel,56732.01
+Asus,Ultrabook,13.3,8,Windows 10,1.2,i5,2.5,3200x1800,256.0,SSD,Intel,41084.31
+Dell,Notebook,13.3,4,Windows 10,1.65,i3,2,1366x768,500.0,HDD,Intel,30895.11
+Acer,Notebook,13.3,4,Windows 10,1.6,i5,2.3,1366x768,128.0,SSD,Intel,23835.45
+Asus,Notebook,17.3,4,Windows 10,2.8,Pentium,1.1,1366x768,1000.0,HDD,Nvidia,17115.67
+Dell,Gaming,15.6,16,Windows 10,2.72,i7,2.6,3840x2160,128.0,SSD,Nvidia,39992.61
+Samsung,Ultrabook,13.3,8,Windows 10,1.31,i7,2.7,1920x1080,256.0,SSD,Intel,58187.61
+Acer,Notebook,15.6,4,Linux,2.1,Pentium,1.1,1366x768,1000.0,HDD,Intel,10844.22
+Dell,Notebook,15.6,16,Windows 10,2.3,i7,2.7,1920x1080,256.0,SSD,AMD,42986.42
+Samsung,2 in 1 Convertible,15.0,16,Windows 10,1.71,i7,2.7,1920x1080,256.0,SSD,AMD,65465.61
+Toshiba,Notebook,14.0,4,Windows 10,1.75,i5,2.3,1366x768,128.0,SSD,Intel,37117.8
+Dell,Gaming,15.6,8,Windows 10,2.62,i7,2.8,1920x1080,1000.0,HDD,Nvidia,39992.61
+HP,Ultrabook,12.5,4,Windows 10,1.26,i5,2.3,1366x768,256.0,SSD,Intel,45269.16
+Asus,2 in 1 Convertible,15.6,12,Windows 10,2.3,i7,2.7,1920x1080,2000.0,HDD,Nvidia,30531.21
+Acer,Notebook,14.0,4,Windows 10,1.8,i3,2.4,1920x1080,128.0,SSD,Intel,23144.04
+Asus,Notebook,15.6,8,Windows 10,2.0,Pentium,1.1,1920x1080,128.0,SSD,Intel,21175.34
+Toshiba,Ultrabook,14.0,16,Windows 10,1.47,i7,2.6,1920x1080,512.0,SSD,Nvidia,64191.96
+Lenovo,Notebook,15.6,8,No OS,2.2,Celeron,1.6,1366x768,1000.0,HDD,Intel,11972.31
+MSI,Gaming,14.0,16,Windows 10,1.6,i7,2.8,1920x1080,256.0,SSD,Nvidia,68813.49
+MSI,Gaming,15.6,8,Windows 10,2.2,i5,2.5,1920x1080,128.0,SSD,Nvidia,39628.71
+Lenovo,Gaming,15.6,4,Windows 10,2.4,i7,2.8,1920x1080,1000.0,HDD,Nvidia,36353.61
+Dell,Gaming,15.6,8,Windows 10,2.62,i5,2.5,1920x1080,256.0,SSD,Nvidia,35844.15
+Asus,Gaming,15.6,8,Windows 10,2.24,i7,2.8,1920x1080,128.0,SSD,Nvidia,48726.21
+Vero,Notebook,14.0,4,Windows 10,1.22,Celeron,1.1,1920x1080,32.0,Flash,Intel,7383.53
+Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.37,i7,2.7,1920x1080,512.0,SSD,Intel,71688.3
+Lenovo,2 in 1 Convertible,15.6,8,Windows 10,2.08,i5,2.5,1920x1080,256.0,SSD,AMD,34898.01
+Apple,Ultrabook,12.0,8,Mac OS X,0.92,Core M,1.2,2304x1440,512.0,Flash,Intel,42394.35
+Asus,Notebook,14.0,4,Windows 10,1.63,Celeron,1.1,1366x768,32.0,Flash,Intel,10880.61
+Dell,Notebook,15.6,8,Windows 10,1.95,i5,2.5,1366x768,128.0,SSD,Intel,29475.9
+Lenovo,2 in 1 Convertible,13.9,8,Windows 10,1.38,i7,2.7,1920x1080,256.0,SSD,Intel,49090.11
+Dell,Notebook,15.6,8,Windows 10,2.0,i3,2,1920x1080,256.0,SSD,AMD,26892.21
+HP,Workstation,15.6,8,Windows 10,3.14,i7,2.8,1920x1080,256.0,SSD,Nvidia,75141.71
+Asus,Notebook,15.6,8,Windows 10,2.37,i5,2.5,1920x1080,256.0,SSD,Intel,39992.61
+Dell,Ultrabook,13.3,8,Windows 10,1.29,i5,2.5,1920x1080,256.0,SSD,Intel,54548.61
+Dell,Notebook,15.6,8,Windows 10,2.06,i5,2.5,3840x2160,256.0,SSD,Nvidia,63646.11
+Dell,Netbook,11.6,4,Windows 10,1.63,Pentium,1.1,1366x768,128.0,SSD,Intel,27074.16
+HP,Netbook,12.5,8,Windows 10,1.26,i5,2.6,1366x768,256.0,SSD,Intel,50545.71
+Toshiba,Notebook,15.6,4,Windows 10,2.1,i5,2.3,1366x768,500.0,HDD,Intel,28384.2
+HP,Notebook,15.6,8,Windows 10,2.04,AMD,2.5,1366x768,2000.0,HDD,AMD,22889.31
+Dell,Gaming,15.6,16,Windows 10,2.62,i7,2.8,3840x2160,512.0,SSD,Nvidia,61098.81
+Lenovo,Notebook,15.6,4,Windows 10,2.4,i5,2.5,1920x1080,1000.0,HDD,Nvidia,22161.51
+HP,Gaming,17.3,12,Windows 10,3.74,i7,2.8,1920x1080,1000.0,HDD,AMD,63646.11
+Samsung,Ultrabook,13.3,8,Windows 10,0.81,i5,2.5,1920x1080,256.0,SSD,Intel,54548.61
+Dell,Notebook,15.6,8,Windows 10,1.98,i7,2.7,1920x1080,1000.0,HDD,Nvidia,34970.79
+Dell,Notebook,15.6,8,Windows 10,2.18,i5,2.5,1920x1080,256.0,SSD,AMD,28741.19
+Lenovo,Ultrabook,14.0,8,Windows 10,1.32,i7,2.7,1920x1080,256.0,SSD,Intel,67649.01
+Razer,Ultrabook,12.5,16,Windows 10,1.29,i7,2.5,3840x2160,512.0,SSD,Intel,65465.61
+HP,Netbook,11.6,4,Chrome OS,1.23,Celeron,1.6,1366x768,16.0,Flash,Intel,14010.15
+Dell,Notebook,14.0,4,Windows 10,1.76,i5,2.3,1366x768,500.0,HDD,Intel,27474.45
+Lenovo,Notebook,15.6,4,Windows 10,2.1,i3,2,1366x768,500.0,HDD,Intel,17827.46
+Toshiba,Ultrabook,14.0,4,Windows 10,1.25,i5,2.5,1366x768,128.0,SSD,Intel,39665.1
+MSI,Gaming,15.6,8,Windows 10,2.4,i5,2.5,1920x1080,256.0,SSD,Nvidia,43631.61
+Lenovo,Ultrabook,14.0,8,Windows 10,1.13,i5,2.5,1920x1080,256.0,Flash,Intel,68231.25
+Toshiba,Notebook,14.0,4,Windows 10,1.75,Pentium,2.1,1366x768,128.0,SSD,Intel,18158.61
+Asus,2 in 1 Convertible,13.3,8,Windows 10,1.1,i5,2.5,1920x1080,256.0,SSD,Intel,49417.62
+Dell,Notebook,14.0,4,Windows 10,1.76,i3,2,1366x768,500.0,HDD,Intel,21288.15
+Acer,Netbook,11.6,4,Chrome OS,1.35,Celeron,1.6,1366x768,32.0,Flash,Intel,12918.45
+Acer,Notebook,14.0,8,Windows 10,1.5,i3,2.4,1920x1080,128.0,SSD,Intel,22525.41
+Lenovo,Ultrabook,14.0,16,Windows 10,1.1,i7,2.6,2560x1440,512.0,SSD,Intel,76382.61
+Asus,Notebook,15.6,4,Linux,2.1,i5,2.5,1920x1080,1000.0,HDD,Nvidia,18886.41
+Lenovo,Notebook,14.0,8,Windows 10,1.7,i5,2.3,1920x1080,256.0,SSD,Intel,43158.54
+Lenovo,Notebook,14.0,8,Windows 10,1.32,i5,2.6,1920x1080,256.0,SSD,Intel,60043.5
+Toshiba,Notebook,15.6,4,Windows 10,2.0,i3,2.4,1366x768,500.0,HDD,Intel,24344.91
+Lenovo,Notebook,14.0,4,Chrome OS,1.5,Celeron,1.6,1366x768,16.0,Flash,Intel,11826.75
+Asus,Notebook,15.6,8,Windows 10,2.3,i5,2.5,1920x1080,128.0,HDD,Intel,21470.1
+Asus,Gaming,17.3,16,Windows 10,2.73,i7,2.6,1920x1080,512.0,SSD,Nvidia,65465.61
+HP,Notebook,17.3,8,Windows 10,2.63,i5,2.5,1600x900,1000.0,HDD,Nvidia,33114.9
+Dell,Notebook,15.6,8,Windows 10,2.18,i5,2.5,1366x768,128.0,SSD,Intel,25982.1
+HP,Ultrabook,14.0,8,Windows 7,1.54,i7,2.5,1920x1080,512.0,SSD,Intel,68049.3
+Dell,Notebook,15.6,4,Windows 10,2.18,i7,2.7,1920x1080,256.0,SSD,AMD,26892.21
+HP,2 in 1 Convertible,11.6,4,Chrome OS,1.4,Celeron,1.1,1366x768,32.0,Flash,Intel,22379.85
+Asus,Ultrabook,13.3,8,Windows 10,1.45,i5,2.3,1920x1080,512.0,SSD,Nvidia,37336.14
+HP,Ultrabook,14.0,8,Windows 10,1.54,i7,2.5,1920x1080,512.0,SSD,Intel,53420.52
+HP,Notebook,15.6,4,No OS,1.86,Celeron,1.6,1366x768,128.0,SSD,Intel,10880.61
+Asus,Gaming,15.6,16,Windows 10,2.1,i7,2.8,1920x1080,128.0,SSD,Nvidia,69104.61
+Dell,Notebook,17.3,8,Linux,2.83,i7,2.7,1920x1080,1000.0,HDD,AMD,31477.35
+Lenovo,Ultrabook,14.0,8,Windows 10,1.96,i7,2.8,1920x1080,256.0,SSD,Nvidia,69250.17
+Asus,Notebook,15.6,8,Windows 10,2.3,i7,2.7,1920x1080,256.0,SSD,Nvidia,28638.93
+Dell,Notebook,15.6,8,Windows 10,1.9,i5,2.5,1920x1080,128.0,SSD,Intel,34388.55
+Asus,Notebook,15.6,4,Windows 10,2.0,Pentium,1.1,1366x768,1000.0,HDD,Intel,16339.11
+Dell,Notebook,13.3,8,Windows 10,1.62,i5,2.3,1920x1080,1000.0,HDD,Intel,23617.11
+Lenovo,Notebook,15.6,4,No OS,2.2,i3,2.0,1920x1080,1000.0,HDD,Intel,17066.91
+Lenovo,Notebook,15.6,8,Windows 10,2.3,i5,2.5,1920x1080,1000.0,HDD,Intel,30955.52
+HP,Notebook,15.6,8,Windows 10,1.84,i5,2.6,1920x1080,256.0,SSD,AMD,49090.11
+Toshiba,Notebook,13.3,4,Windows 10,1.05,i5,2.5,1920x1080,128.0,SSD,Intel,46761.15
+Lenovo,Gaming,15.6,8,No OS,2.5,i5,2.5,1920x1080,1000.0,HDD,Nvidia,37008.63
+HP,Notebook,15.6,4,Windows 10,2.07,i5,2.3,1920x1080,500.0,HDD,Intel,33114.9
+Toshiba,Ultrabook,13.3,8,Windows 10,1.2,i5,2.3,1366x768,256.0,SSD,Intel,39847.05
+Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.37,i7,2.7,1920x1080,256.0,SSD,Intel,70960.5
+Acer,Notebook,14.0,8,Windows 10,1.56,i5,2.5,1920x1080,256.0,SSD,Intel,32823.78
+Dell,Workstation,15.6,8,Windows 10,2.23,i7,2.8,1920x1080,1000.0,HDD,Nvidia,64701.42
+Lenovo,Notebook,15.6,4,Windows 10,2.38,i5,2.5,1366x768,500.0,HDD,Intel,38391.45
+Lenovo,Notebook,15.6,4,No OS,2.2,i3,2,1920x1080,1000.0,HDD,AMD,17430.81
+Toshiba,Notebook,15.6,8,Windows 10,2.0,i7,2.7,1920x1080,256.0,SSD,Intel,50509.32
+Lenovo,Notebook,13.3,4,Windows 10,1.44,i3,2.4,1920x1080,180.0,SSD,Intel,26746.65
+Samsung,Ultrabook,15.0,16,Windows 10,1.23,i7,2.7,1920x1080,256.0,SSD,Nvidia,67285.11
+Dell,Ultrabook,12.5,8,Windows 10,1.6,i7,2.8,1920x1080,256.0,SSD,Intel,61499.1
+Asus,Notebook,15.6,4,Linux,2.0,Pentium,1.1,1366x768,1000.0,HDD,Intel,14519.25
+Xiaomi,Ultrabook,13.3,8,Windows 10,1.28,i5,2.3,1920x1080,256.0,SSD,Nvidia,34024.65
+Dell,Notebook,15.6,4,Windows 10,2.18,i5,2.5,1920x1080,128.0,SSD,Nvidia,33205.88
+HP,Notebook,15.6,4,Windows 10,2.04,i5,2.5,1920x1080,256.0,SSD,Intel,30531.21
+HP,2 in 1 Convertible,13.3,4,Windows 10,1.28,i5,2.5,1920x1080,256.0,SSD,Intel,61863.0
+HP,2 in 1 Convertible,15.6,4,Windows 10,2.3,i5,2.5,1366x768,500.0,HDD,Intel,24919.87
+Asus,Notebook,14.1,4,Windows 10,1.65,Celeron,1.1,1366x768,32.0,Flash,Intel,12663.72
+Lenovo,Notebook,15.6,8,Windows 10,2.2,i7,2.5,1920x1080,1000.0,HDD,Nvidia,24344.91
+Dell,Notebook,15.6,4,Windows 10,2.2,Pentium,1.6,1366x768,500.0,HDD,Intel,13427.91
+HP,2 in 1 Convertible,13.3,4,Windows 10,1.28,i5,2.5,1920x1080,256.0,SSD,Intel,65465.61
+Dell,Notebook,15.6,4,Linux,2.18,i3,2.0,1366x768,1000.0,HDD,AMD,16582.92
+Asus,Gaming,17.3,12,Windows 10,2.2,i5,2.5,1920x1080,128.0,SSD,Nvidia,49850.66
+Acer,Netbook,11.6,4,Chrome OS,1.25,Celeron,1.6,1366x768,32.0,Flash,Intel,10807.83
+Lenovo,Notebook,17.3,4,Windows 10,2.8,AMD,2.2,1600x900,500.0,HDD,AMD,13791.81
+HP,Notebook,14.0,4,Windows 10,1.95,i5,2.5,1920x1080,128.0,SSD,Intel,46033.35
+HP,2 in 1 Convertible,13.3,16,Windows 10,1.42,i7,2.7,3200x1800,256.0,SSD,Intel,50909.61
+Samsung,Ultrabook,15.0,8,Windows 10,1.17,i7,2.7,1920x1080,256.0,SSD,Intel,61826.61
+Lenovo,Ultrabook,14.0,8,Windows 10,1.32,i5,2.5,1920x1080,256.0,SSD,Intel,65465.61
+Toshiba,Notebook,13.3,8,Windows 10,1.05,i5,2.5,1920x1080,256.0,SSD,Intel,53675.25
+Dell,Gaming,15.6,8,Linux,2.62,i7,2.8,1920x1080,1000.0,HDD,Nvidia,33806.31
+HP,Notebook,15.6,8,Windows 10,2.04,i7,2.7,1920x1080,1000.0,HDD,Nvidia,32751.0
+Dell,Notebook,15.6,4,Windows 10,2.18,i3,2.0,1366x768,1000.0,HDD,AMD,22343.46
+Dell,Notebook,15.6,8,Windows 10,1.9,i5,2.6,1920x1080,500.0,HDD,Intel,34024.65
+Dell,2 in 1 Convertible,13.3,8,Windows 10,1.24,i7,1.3,3200x1800,512.0,SSD,Intel,73256.71
+Asus,Gaming,17.3,32,Windows 10,3.58,i7,2.7,1920x1080,256.0,SSD,Nvidia,46542.81
+Dell,2 in 1 Convertible,13.3,16,Windows 10,1.22,i7,1.3,1920x1080,256.0,SSD,Intel,60007.11
+Lenovo,Ultrabook,14.0,8,Windows 10,1.13,i7,2.7,1920x1080,256.0,Flash,Intel,74563.11
+Lenovo,Notebook,15.6,8,Windows 10,1.95,i5,2.5,1920x1080,512.0,SSD,Intel,71433.21
+LG,Ultrabook,15.6,16,Windows 10,1.08,i7,2.7,1920x1080,512.0,SSD,Intel,76382.61
+HP,Netbook,12.5,8,Windows 10,1.26,i7,2.7,1920x1080,512.0,SSD,Intel,53966.37
+Acer,Notebook,15.6,4,Chrome OS,2.2,Celeron,1.5,1920x1080,16.0,Flash,Intel,13064.01
+Lenovo,Notebook,15.6,8,Windows 10,2.6,i5,2.3,1920x1080,128.0,SSD,Nvidia,28711.71
+LG,Ultrabook,14.0,8,Windows 10,0.98,i7,2.7,1920x1080,512.0,SSD,Intel,69104.61
+Dell,Notebook,14.0,8,Windows 10,1.6,i5,2.8,1920x1080,256.0,SSD,Intel,43849.95
+Lenovo,Notebook,15.6,6,Windows 10,2.2,i7,2.7,1920x1080,256.0,SSD,Nvidia,28711.71
+HP,Notebook,15.6,8,Windows 10,2.04,i7,2.7,1920x1080,256.0,SSD,Nvidia,37081.05
+Acer,Notebook,15.6,4,Windows 10,2.4,i3,2.4,1920x1080,1000.0,HDD,Intel,18158.61
+Lenovo,Notebook,13.3,4,Windows 10,1.44,i5,2.5,1920x1080,128.0,SSD,Intel,32059.59
+HP,Notebook,13.3,8,Windows 10,1.49,i5,2.5,1920x1080,256.0,SSD,Intel,34934.4
+MSI,Gaming,17.3,16,Windows 10,2.7,i7,2.8,1920x1080,256.0,SSD,Nvidia,58187.61
+Dell,Gaming,15.6,16,Windows 10,2.6,i7,2.8,1920x1080,128.0,SSD,Nvidia,49090.11
+MSI,Gaming,15.6,8,Windows 10,2.2,i5,2.5,1920x1080,128.0,SSD,Nvidia,40753.52
+Dell,Notebook,15.6,4,Windows 10,2.18,i5,2.5,1366x768,1000.0,HDD,AMD,24926.79
+HP,Ultrabook,15.6,8,Windows 10,1.84,i7,2.5,1920x1080,256.0,SSD,AMD,47197.47
+HP,Ultrabook,13.3,8,Windows 10,1.39,i7,2.7,3200x1800,256.0,SSD,Intel,41812.11
+Toshiba,Notebook,15.6,16,Windows 10,2.4,i7,2.6,1920x1080,256.0,SSD,Nvidia,71870.25
+Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.37,i5,2.5,1920x1080,512.0,SSD,Intel,66411.75
+Dell,Notebook,15.6,4,Windows 10,1.95,i5,2.3,1366x768,500.0,HDD,Intel,26561.06
+Lenovo,Ultrabook,12.5,8,Windows 10,1.36,i7,2.7,1920x1080,256.0,SSD,Intel,60043.5
+HP,Notebook,15.6,8,Windows 10,2.31,i5,2.3,1920x1080,256.0,SSD,Intel,42394.35
+Dell,Notebook,15.6,4,Windows 10,2.18,i5,2.5,1366x768,1000.0,HDD,Intel,25766.3
+HP,Notebook,14.0,4,Windows 10,1.95,i5,2.3,1366x768,500.0,HDD,Intel,41812.11
+Lenovo,Notebook,15.6,4,Windows 10,2.2,Pentium,1.1,1366x768,1000.0,HDD,Intel,11244.51
+HP,Ultrabook,12.5,4,Windows 10,1.26,i5,2.3,1920x1080,500.0,HDD,Intel,57459.81
+HP,Notebook,15.6,4,No OS,1.86,Celeron,1.6,1366x768,1000.0,HDD,Intel,10513.07
+Lenovo,2 in 1 Convertible,13.3,16,Windows 10,1.3,i7,2.2,3200x1800,1000.0,SSD,Intel,65465.61
+Toshiba,Notebook,14.0,4,Windows 10,1.47,i5,2.3,1920x1080,128.0,SSD,Intel,40210.95
+HP,Netbook,12.5,8,Windows 10,1.26,i5,2.3,1920x1080,256.0,SSD,Intel,60734.91
+Dell,Notebook,15.6,4,Windows 10,2.18,i3,2.0,1366x768,1000.0,HDD,Intel,20327.45
+MSI,Gaming,15.6,8,Windows 10,2.2,i7,2.8,1920x1080,128.0,SSD,Nvidia,43631.61
+Dell,Ultrabook,14.0,8,Windows 10,1.36,i5,2.5,1920x1080,256.0,SSD,Intel,59643.21
+HP,Gaming,17.3,8,Windows 10,2.75,i5,2.3,1920x1080,128.0,SSD,Nvidia,50909.61
+Asus,Notebook,17.3,4,Windows 10,2.8,Pentium,1.6,1600x900,1000.0,HDD,Nvidia,19286.7
+Acer,Notebook,15.6,4,Windows 10,2.23,i5,2.5,1366x768,500.0,HDD,Intel,22525.41
+Toshiba,Notebook,15.6,8,Windows 10,2.2,i5,2.3,1366x768,256.0,SSD,Intel,40720.41
+Lenovo,2 in 1 Convertible,11.3,8,Windows 10,1.1,Core M,1.2,1920x1080,256.0,SSD,Intel,47270.61
+Lenovo,Gaming,15.6,16,Windows 10,2.5,AMD,2.1,1920x1080,512.0,SSD,AMD,36353.61
+Dell,Ultrabook,12.5,8,Windows 10,1.36,i5,2.5,1920x1080,256.0,SSD,Intel,53573.36
+Lenovo,Notebook,15.6,8,No OS,2.2,i7,2.7,1920x1080,1000.0,HDD,Nvidia,24927.15
+Dell,Notebook,17.3,4,Windows 10,2.36,i3,2.0,1600x900,1000.0,HDD,AMD,23981.01
+Acer,Notebook,14.0,4,Chrome OS,1.68,Celeron,1.6,1366x768,32.0,Flash,Intel,12700.11
+Dell,Ultrabook,14.0,8,Windows 10,1.36,i7,2.8,1920x1080,256.0,SSD,Intel,64592.25
+Toshiba,Notebook,13.3,8,Windows 7,1.2,i5,2.3,1920x1080,256.0,SSD,Intel,53129.4
+Asus,2 in 1 Convertible,12.5,8,Chrome OS,1.2,Core M,1.2,1920x1080,64.0,Flash,Intel,42176.01
+Lenovo,Ultrabook,14.0,8,Windows 10,1.7,i7,2.6,1920x1080,256.0,SSD,Intel,54184.35
+Dell,2 in 1 Convertible,13.3,8,Windows 10,1.24,i5,1.2,1920x1080,256.0,SSD,Intel,69104.61
+HP,2 in 1 Convertible,11.6,4,Windows 10,1.45,Pentium,1.1,1366x768,256.0,SSD,Intel,28202.25
+Dell,Ultrabook,13.3,8,Windows 10,1.3,i7,2.5,3200x1800,256.0,SSD,Intel,46142.52
+Acer,2 in 1 Convertible,11.6,4,Chrome OS,1.25,Celeron,1.6,1366x768,32.0,Flash,Intel,14155.71
+Toshiba,Notebook,13.3,8,Windows 10,1.2,i5,2.4,1920x1080,256.0,SSD,Intel,55858.65
+Lenovo,Ultrabook,12.5,8,Windows 10,1.36,i5,2.6,1920x1080,256.0,SSD,Intel,64046.4
+Acer,Notebook,15.6,12,Windows 10,2.4,i5,2.5,1920x1080,128.0,SSD,Nvidia,36717.51
+Toshiba,Ultrabook,12.5,8,Windows 10,1.1,i7,2.7,1920x1080,512.0,SSD,Intel,65138.1
+HP,Notebook,15.6,8,Windows 10,2.04,i5,2.50,1366x768,1000.0,HDD,Nvidia,30804.14
+Dell,Notebook,15.6,4,Linux,2.25,i3,2.0,1366x768,1000.0,HDD,AMD,16943.91
+Dell,Notebook,15.6,4,Windows 10,1.9,i5,2.5,1366x768,500.0,HDD,Intel,30021.75
+HP,Notebook,15.6,4,Windows 10,2.04,i3,2.4,1920x1080,500.0,HDD,Intel,24927.15
+Lenovo,Notebook,15.6,6,Windows 10,2.4,i5,2.5,1920x1080,256.0,SSD,Nvidia,25291.05
+Dell,2 in 1 Convertible,13.3,16,Windows 10,1.22,i7,1.3,3200x1800,512.0,SSD,Intel,69104.61
+Dell,Ultrabook,14.0,8,Windows 10,1.5,i7,2.6,2560x1440,256.0,SSD,Intel,71432.84
+Toshiba,Notebook,14.0,8,Windows 10,1.95,i5,2.3,1920x1080,256.0,SSD,Intel,42940.2
+Asus,Gaming,17.3,16,Windows 10,2.73,i7,2.8,1920x1080,256.0,SSD,Nvidia,74595.86
+HP,Notebook,15.6,8,Windows 10,2.04,i5,2.70,1920x1080,128.0,SSD,Nvidia,35625.81
+Lenovo,Notebook,14.0,4,Windows 7,1.7,i5,2.3,1366x768,508.0,Hybrid,Intel,36462.78
+Asus,2 in 1 Convertible,15.6,16,Windows 10,2.3,i7,2.7,3840x2160,512.0,SSD,Nvidia,65465.61
+HP,Notebook,15.6,6,Windows 10,2.04,i7,2.7,1366x768,1000.0,HDD,Intel,21069.81
+Asus,Gaming,17.3,16,Windows 10,2.99,i7,2.8,1920x1080,256.0,SSD,Nvidia,63646.11
+Dell,2 in 1 Convertible,15.6,12,Windows 10,2.19,i7,2.7,1920x1080,512.0,SSD,Intel,47270.61
+Toshiba,Notebook,13.3,4,Windows 7,1.2,i5,2.3,1920x1080,128.0,SSD,Intel,43486.05
+Lenovo,Notebook,15.6,6,Windows 10,2.2,AMD,3.6,1920x1080,256.0,SSD,AMD,19978.11
+Fujitsu,Notebook,15.6,4,Windows 10,2.3,i5,2.3,1366x768,256.0,SSD,Intel,23617.11
+Toshiba,Notebook,14.0,4,Windows 10,1.75,i5,2.3,1366x768,500.0,HDD,Intel,33296.85
+Dell,Notebook,15.6,4,Windows 10,2.25,i5,2.5,1366x768,500.0,HDD,AMD,21797.61
+HP,Notebook,15.6,8,Windows 10,2.04,i5,2.5,1920x1080,1000.0,HDD,Intel,29330.34
+Lenovo,Gaming,15.6,8,Windows 10,2.5,i7,2.8,1920x1080,128.0,SSD,Nvidia,43267.71
+Dell,Notebook,15.6,8,Windows 10,2.36,i7,2.7,1366x768,1000.0,HDD,AMD,27256.11
+Dell,Notebook,14.0,8,Windows 10,1.6,i5,2.5,1920x1080,128.0,SSD,Intel,40720.41
+HP,Netbook,12.5,8,Windows 10,0.97,Core M,1.2,1920x1080,512.0,SSD,Intel,69432.12
+HP,Notebook,15.6,4,Windows 10,2.1,i3,2,1920x1080,128.0,SSD,AMD,18158.61
+Lenovo,Notebook,15.6,4,No OS,1.9,Celeron,1.1,1366x768,128.0,SSD,Intel,9847.86
+Lenovo,Notebook,15.6,8,Windows 10,2.3,i5,2.3,1920x1080,256.0,SSD,Intel,49090.11
+Dell,2 in 1 Convertible,13.3,8,Windows 10,1.68,i5,2.5,1920x1080,256.0,SSD,Intel,32350.71
+Asus,Notebook,13.3,8,Windows 10,1.4,i5,2.5,3200x1800,256.0,SSD,Intel,41848.5
+HP,Ultrabook,13.3,8,Windows 10,1.11,i7,2.7,1920x1080,256.0,SSD,Intel,49090.11
+Acer,Notebook,15.6,4,Windows 10,2.4,Pentium,1.1,1366x768,500.0,HDD,Intel,13828.2
+Asus,Gaming,15.6,16,Windows 10,2.5,i7,2.8,1920x1080,256.0,SSD,Nvidia,65465.61
+HP,Ultrabook,14.0,8,Windows 10,1.48,i7,2.7,1920x1080,512.0,SSD,Intel,76018.71
+Acer,Gaming,15.6,8,Windows 10,2.7,i7,2.8,1920x1080,128.0,SSD,Nvidia,45851.4
+HP,Notebook,13.3,8,Windows 10,1.34,i5,2.5,1920x1080,256.0,SSD,Intel,43267.71
+Dell,Notebook,15.6,4,Windows 10,2.18,i3,2.4,1366x768,128.0,SSD,Intel,19905.33
+HP,Notebook,14.0,4,Windows 10,1.64,i5,2.5,1366x768,500.0,HDD,Intel,28347.81
+Toshiba,Notebook,13.3,4,Windows 10,1.2,i5,2.3,1920x1080,128.0,SSD,Intel,43486.05
+HP,Notebook,14.0,4,Windows 10,1.48,i5,2.4,1366x768,256.0,SSD,Intel,40028.64
+HP,Notebook,14.0,4,Windows 10,1.95,i5,2.5,1920x1080,256.0,SSD,Intel,43849.95
+HP,Ultrabook,14.0,8,Windows 7,1.43,i7,2.6,1920x1080,256.0,SSD,Intel,52729.11
+HP,Notebook,14.0,8,Windows 10,1.64,i5,2.5,1920x1080,256.0,SSD,Nvidia,38182.57
+HP,Notebook,14.0,4,Windows 10,1.64,i3,2.4,1366x768,500.0,HDD,Intel,24890.76
+Dell,Gaming,15.6,8,Windows 10,2.65,i5,2.5,1920x1080,1000.0,Hybrid,Nvidia,34534.11
+HP,Ultrabook,12.5,4,Windows 10,1.26,i5,2.5,1920x1080,500.0,HDD,Intel,56004.21
+HP,Notebook,14.0,4,Windows 10,1.48,i5,2.5,1920x1080,256.0,SSD,Intel,57860.1
+HP,Ultrabook,14.0,8,Windows 10,1.54,i7,2.5,1920x1080,256.0,SSD,Intel,68675.57
+HP,Notebook,13.3,4,Windows 10,1.49,i3,2.4,1366x768,500.0,HDD,Intel,29112.0
+Toshiba,Notebook,13.3,8,Windows 10,1.5,i5,2.3,1366x768,256.0,SSD,Intel,44031.9
+HP,Notebook,15.6,4,Windows 10,2.04,i3,2.4,1366x768,256.0,SSD,Intel,28019.94
+Toshiba,Notebook,14.0,8,Windows 10,1.47,i5,2.3,1920x1080,256.0,SSD,Intel,54221.1
+Dell,2 in 1 Convertible,15.6,4,Windows 10,2.08,i3,2.3,1920x1080,1000.0,HDD,Intel,28966.08
+Toshiba,Ultrabook,13.3,8,Windows 10,1.2,i5,2.3,1920x1080,256.0,SSD,Intel,57860.1
+HP,Notebook,13.3,8,Windows 10,1.11,i5,2.5,1920x1080,256.0,SSD,Intel,41812.11
+HP,Notebook,14.0,8,Windows 10,1.64,i7,2.7,1920x1080,256.0,SSD,Nvidia,43137.8
+Dell,Notebook,15.6,8,Windows 10,2.09,i5,2.4,1920x1080,500.0,HDD,Intel,38079.95
+HP,Ultrabook,12.5,4,Windows 10,1.26,i5,2.5,1366x768,256.0,SSD,Intel,56732.01
+HP,Notebook,14.0,4,Windows 10,2.31,i5,2.5,1366x768,500.0,HDD,Intel,43267.71
+HP,Notebook,14.0,4,Windows 10,1.95,i5,2.5,1366x768,500.0,HDD,Intel,38573.4
+Dell,Ultrabook,13.3,8,Windows 10,1.29,i5,2.5,3200x1800,256.0,SSD,Intel,59097.36
+HP,Notebook,17.3,8,Windows 10,2.63,i5,2.5,1920x1080,256.0,SSD,Nvidia,39301.2
+HP,Notebook,14.0,4,Windows 10,1.64,i5,2.5,1366x768,256.0,SSD,Intel,35407.47
+Acer,Notebook,15.6,6,Windows 10,2.1,AMD,3,1366x768,1000.0,HDD,AMD,14883.51
+MSI,Gaming,17.3,8,Windows 10,2.7,i7,2.8,1920x1080,128.0,SSD,Nvidia,43369.6
+HP,Notebook,14.0,8,Windows 7,1.95,i5,2.3,1920x1080,256.0,SSD,Intel,43486.05
+HP,Notebook,15.6,8,Windows 10,1.84,i7,2.5,1920x1080,256.0,SSD,Intel,44722.95
+HP,Ultrabook,12.5,8,Windows 10,1.26,i7,2.5,1920x1080,256.0,SSD,Intel,49090.11
+HP,Notebook,15.6,4,Windows 10,2.04,i5,2.5,1366x768,500.0,HDD,Intel,27001.38
+Toshiba,Ultrabook,14.0,8,Windows 10,1.47,i7,2.6,1920x1080,256.0,SSD,Intel,62772.75
+Dell,Notebook,15.6,8,Windows 7,2.09,i5,2.4,1920x1080,256.0,SSD,Intel,38680.75
+HP,Notebook,14.0,8,Windows 10,1.64,i5,2.5,1920x1080,256.0,SSD,Intel,36772.46
+Lenovo,2 in 1 Convertible,15.6,4,Windows 10,1.8,i7,2.5,1920x1080,256.0,SSD,Intel,30822.33
+Vero,Notebook,14.0,2,Windows 10,1.45,Atom,1.44,1366x768,32.0,Flash,Intel,7671.01
+Toshiba,Notebook,15.6,16,Windows 10,2.4,i7,2.5,1920x1080,256.0,SSD,Nvidia,51855.75
+Lenovo,Notebook,15.6,8,Windows 10,2.3,i5,2.3,1920x1080,256.0,SSD,Intel,38194.94
+HP,Notebook,14.0,4,Windows 10,1.54,i5,2.3,1920x1080,500.0,HDD,Intel,36390.0
+HP,Notebook,15.6,8,Windows 10,1.84,i5,2.4,1920x1080,256.0,SSD,Intel,76540.54
+HP,Notebook,14.0,8,Windows 7,1.43,i5,2.3,1920x1080,256.0,SSD,Intel,53456.91
+MSI,Gaming,17.3,16,Windows 10,3.78,i7,2.7,1920x1080,256.0,SSD,Nvidia,56245.84
+Asus,Netbook,11.6,4,Chrome OS,1.2,Celeron,1.6,1366x768,16.0,Flash,Intel,10476.68
+HP,Notebook,15.6,8,Windows 10,1.91,i7,2.7,1920x1080,1000.0,HDD,Nvidia,35625.81
+Dell,2 in 1 Convertible,15.6,8,Windows 10,2.3,i5,2.7,1920x1080,256.0,SSD,Intel,39810.66
+HP,Notebook,15.6,4,Windows 10,2.04,i5,2.5,1366x768,256.0,SSD,Intel,35625.81
+HP,Notebook,15.6,4,Windows 10,2.31,i3,2.3,1366x768,500.0,HDD,Intel,25660.41
+HP,Notebook,15.6,4,No OS,1.96,i5,2.5,1366x768,500.0,HDD,Intel,18158.61
+Acer,Notebook,15.6,8,Windows 10,2.4,AMD,2.2,1366x768,1000.0,HDD,AMD,16339.11
+Dell,2 in 1 Convertible,13.3,12,Windows 10,1.6,i7,2.7,1920x1080,256.0,SSD,Intel,47270.61
+MSI,Gaming,15.6,16,Windows 10,2.94,i7,2.6,1920x1080,256.0,SSD,Nvidia,66193.41
+HP,Notebook,15.6,8,Windows 10,2.04,i7,2.7,1920x1080,256.0,SSD,Intel,38937.3
+Asus,Gaming,17.3,16,No OS,4.0,i7,2.6,1920x1080,1000.0,HDD,Nvidia,36317.22
+Dell,Notebook,15.6,4,Windows 10,2.25,i5,2.5,1920x1080,1000.0,HDD,Intel,20342.01
+Dell,Notebook,15.6,16,Windows 10,2.32,i7,2.7,1920x1080,2000.0,HDD,AMD,36025.74
+MSI,Gaming,15.6,16,Windows 10,1.8,i7,2.6,1920x1080,256.0,SSD,Nvidia,70196.31
+Dell,Ultrabook,13.3,8,Windows 10,1.29,i7,2.7,1920x1080,256.0,SSD,Intel,53056.62
+Dell,2 in 1 Convertible,13.3,8,Windows 10,1.62,i7,2.5,1920x1080,256.0,SSD,Intel,29039.58
+Dell,Gaming,15.6,16,Windows 10,3.21,i7,2.6,3840x2160,256.0,SSD,Nvidia,48362.31
+Apple,Ultrabook,12.0,8,Mac OS X,0.92,Core M,1.1,2304x1440,256.0,Flash,Intel,47307.0
+Dell,Notebook,15.6,4,Windows 10,2.06,i3,2.3,1366x768,500.0,HDD,Intel,17539.25
+HP,Notebook,15.6,4,Windows 10,2.31,i5,2.3,1366x768,500.0,HDD,Intel,43631.61
+HP,Ultrabook,12.5,8,Windows 7,1.26,i5,2.3,1920x1080,256.0,SSD,Intel,43631.61
+HP,Notebook,13.3,8,Windows 10,1.49,i7,2.7,1920x1080,256.0,SSD,Intel,39665.1
+Lenovo,Ultrabook,12.5,8,Windows 10,1.3,i7,2.5,1920x1080,256.0,SSD,Intel,62353.9
+Lenovo,Notebook,17.3,8,Windows 10,3.0,i5,2.3,1600x900,1000.0,HDD,AMD,23981.01
+Lenovo,Notebook,15.6,4,Windows 10,2.3,i5,2.3,1920x1080,1000.0,HDD,Nvidia,35553.03
+Lenovo,Notebook,15.6,4,Windows 10,2.1,i5,2.3,1366x768,500.0,HDD,Intel,19650.6
+HP,Notebook,15.6,4,Windows 7,2.31,i5,2.3,1920x1080,500.0,HDD,Intel,34206.6
+Lenovo,Ultrabook,12.5,8,Windows 10,0.99,Core M,1.2,2560x1440,512.0,SSD,Intel,50909.61
+Lenovo,2 in 1 Convertible,10.1,4,Windows 10,0.69,Atom,1.44,1920x1200,64.0,Flash,Intel,23517.77
+HP,Ultrabook,13.3,16,Windows 10,1.3,i7,2.7,3840x2160,512.0,SSD,Intel,74563.11
+Dell,Notebook,15.6,8,Windows 10,2.18,i5,2.5,1920x1080,256.0,SSD,Intel,27292.5
+HP,Notebook,14.0,4,Windows 7,1.54,i5,2.3,1920x1080,500.0,HDD,Intel,37517.73
+HP,Workstation,15.6,8,Windows 7,1.9,i7,2.5,1920x1080,256.0,SSD,AMD,54403.05
+Lenovo,Notebook,14.0,8,Windows 7,1.7,i5,2.3,1920x1080,180.0,SSD,Intel,43631.61
+HP,Notebook,13.3,4,Chrome OS,1.29,Pentium,1.5,3200x1800,32.0,Flash,Intel,22379.85
+Acer,Notebook,15.6,4,Windows 10,2.4,AMD,2.2,1366x768,500.0,HDD,AMD,14082.93
+Dell,Notebook,15.6,4,Linux,2.2,Pentium,1.6,1366x768,500.0,HDD,Intel,14319.1
+HP,Notebook,15.6,4,No OS,1.86,i3,2,1366x768,1000.0,HDD,Intel,12590.58
+Asus,Gaming,17.3,8,Windows 10,2.7,i7,2.8,1920x1080,256.0,SSD,Nvidia,58187.61
+Dell,Ultrabook,13.3,4,Windows 10,1.4,i5,1.6,1920x1080,256.0,SSD,AMD,29779.76
+HP,Netbook,12.5,4,Windows 7,2.4,i5,2.3,1366x768,128.0,SSD,Intel,58187.61
+Acer,Notebook,15.6,8,Windows 10,2.4,i5,2.5,1920x1080,256.0,SSD,Nvidia,29075.61
+Dell,Notebook,15.6,8,Windows 10,2.36,i5,2.5,1920x1080,1000.0,HDD,AMD,23245.93
+MSI,Gaming,17.3,8,Windows 10,2.6,i7,2.6,1920x1080,256.0,SSD,Nvidia,58187.61
+HP,Notebook,15.6,4,Windows 10,1.96,Pentium,1.6,1366x768,1000.0,HDD,Intel,18195.0
+Dell,Ultrabook,12.5,4,Windows 7,1.5,i3,2.3,1366x768,500.0,HDD,Intel,41308.11
+Dell,Ultrabook,12.5,4,Windows 7,1.5,i3,2.3,1366x768,128.0,SSD,Intel,42466.04
+Acer,Notebook,15.6,4,Chrome OS,2.2,Celeron,1.5,1366x768,16.0,SSD,Intel,7605.51
+Lenovo,Gaming,15.6,16,Windows 10,2.4,i7,2.8,1920x1080,512.0,SSD,Nvidia,43631.61
+Dell,Ultrabook,12.5,8,Windows 7,1.5,i5,2.3,1366x768,256.0,SSD,Intel,51422.71
+MSI,Gaming,17.3,8,Windows 10,2.9,i7,2.6,1920x1080,128.0,SSD,Nvidia,54992.2
+Lenovo,2 in 1 Convertible,15.6,4,Windows 10,2.1,i5,2.3,1920x1080,256.0,SSD,Intel,31550.13
+HP,Notebook,15.6,4,Windows 10,2.1,AMD,2.5,1920x1080,1000.0,HDD,AMD,14483.22
+Asus,Gaming,15.6,16,Windows 10,2.59,i7,2.6,1920x1080,128.0,SSD,Nvidia,48726.21
+HP,Notebook,13.3,8,Windows 10,1.16,Core M,1.1,3200x1800,256.0,SSD,Intel,61826.61
+Dell,Notebook,15.6,4,Windows 7,2.24,i5,2.3,1366x768,500.0,HDD,AMD,27989.37
+Lenovo,Notebook,15.6,4,Windows 10,2.1,i3,2.0,1366x768,128.0,SSD,Intel,15611.31
+HP,Ultrabook,13.3,8,Windows 10,1.16,i7,2.5,1920x1080,512.0,SSD,Intel,71651.91
+Lenovo,2 in 1 Convertible,10.1,4,Android,0.69,Atom,1.44,1920x1200,64.0,Flash,Intel,19978.11
+Dell,Ultrabook,13.3,8,Windows 10,1.23,i7,2.4,1920x1080,256.0,SSD,Intel,50181.81
+Razer,Ultrabook,12.5,8,Windows 10,1.25,i7,2.5,3840x2160,256.0,SSD,Intel,37445.31
+Asus,Gaming,17.3,8,Windows 10,3.52,i7,2.6,1920x1080,128.0,SSD,Nvidia,47761.51
+Vero,Notebook,13.3,4,Windows 10,1.35,Atom,1.44,1920x1080,32.0,Flash,Intel,7132.44
+HP,Notebook,13.3,8,Windows 10,1.16,i5,2.3,1920x1080,256.0,SSD,Intel,61499.1
+HP,Notebook,14.0,8,Windows 7,1.43,i5,2.3,1920x1080,256.0,SSD,Intel,55058.07
+Dell,Notebook,15.6,4,Linux,2.09,i5,2.3,1366x768,500.0,HDD,Intel,19054.9
+Asus,Notebook,15.6,4,Windows 10,2.0,i3,2.4,1366x768,1000.0,HDD,Intel,15829.65
+Lenovo,2 in 1 Convertible,14.0,8,Windows 10,1.8,i7,2.5,1920x1080,256.0,SSD,Intel,60734.91
+Lenovo,2 in 1 Convertible,10.1,4,Windows 10,0.69,Atom,1.44,1920x1200,64.0,Flash,Intel,17430.81
+HP,Ultrabook,12.5,8,Windows 7,1.26,i5,2.4,1366x768,256.0,SSD,Intel,68959.05
+Lenovo,Gaming,15.6,8,No OS,2.4,i5,2.5,1920x1080,128.0,SSD,Nvidia,35989.71
+HP,Gaming,17.3,8,Windows 10,3.35,i5,2.3,1920x1080,128.0,SSD,Nvidia,41084.31
+HP,Notebook,15.6,8,Windows 10,2.04,i7,2.7,1366x768,2000.0,HDD,Intel,22889.31
+Lenovo,2 in 1 Convertible,14.0,8,Windows 7,1.8,i7,2.6,1920x1080,512.0,SSD,Nvidia,74613.33
+Asus,Notebook,14.0,4,Windows 10,1.5,Celeron,1.1,1366x768,32.0,Flash,Intel,10116.42
+HP,Ultrabook,15.6,8,Windows 10,1.84,i7,2.7,1920x1080,256.0,SSD,Intel,27365.28
+Acer,Notebook,15.6,4,Windows 10,2.23,i5,2.5,1920x1080,1000.0,HDD,Nvidia,22416.24
+Lenovo,Notebook,15.6,16,Windows 10,2.5,i7,2.5,1920x1080,1000.0,Hybrid,AMD,39992.61
+Dell,Notebook,15.6,8,Windows 10,2.5,i5,2.5,1366x768,1000.0,HDD,AMD,28529.76
+HP,Ultrabook,15.6,8,Windows 7,1.88,i7,2.5,1920x1080,256.0,SSD,Intel,79028.89
+MSI,Gaming,15.6,8,Windows 10,2.4,i7,2.8,1920x1080,128.0,SSD,Nvidia,41586.49
+HP,2 in 1 Convertible,13.3,8,Windows 10,1.48,i5,2.4,1920x1080,256.0,SSD,Intel,59279.31
+HP,2 in 1 Convertible,13.3,8,Windows 10,1.48,i7,2.6,2560x1440,256.0,SSD,Intel,65465.61
+HP,Workstation,15.6,8,Windows 7,2.0,i7,2.6,1920x1080,256.0,SSD,Nvidia,69104.61
+Dell,Notebook,15.6,8,Windows 10,2.18,i7,2.7,1920x1080,256.0,SSD,Nvidia,36750.26
+HP,Notebook,15.6,8,Windows 7,1.88,i5,2.3,1920x1080,256.0,SSD,Intel,57459.81
+Lenovo,Notebook,15.6,4,No OS,1.9,i3,2.0,1366x768,1000.0,HDD,Intel,12336.21
+HP,Notebook,15.6,4,Windows 10,1.86,AMD,1.8,1366x768,500.0,HDD,AMD,10807.83
+Lenovo,Notebook,15.6,8,No OS,2.32,i5,2.3,1920x1080,1000.0,HDD,AMD,21797.61
+Dell,Gaming,15.6,8,Windows 10,2.62,i7,2.8,1920x1080,1000.0,HDD,Nvidia,43631.61
+HP,Notebook,15.6,4,Windows 10,1.91,AMD,2.5,1920x1080,256.0,SSD,AMD,17426.81
+MSI,Gaming,17.3,16,Windows 10,2.7,i7,2.8,1920x1080,256.0,SSD,Nvidia,54322.99
+Lenovo,Notebook,15.6,8,Windows 10,2.5,i5,2.3,1920x1080,1000.0,Hybrid,AMD,28693.15
+HP,2 in 1 Convertible,13.3,8,Windows 10,1.48,i7,2.6,2560x1440,512.0,SSD,Intel,74271.99
+Lenovo,Ultrabook,14.0,8,Windows 7,1.7,i7,2.6,1920x1080,256.0,SSD,Intel,54548.61
+MSI,Gaming,14.0,16,Windows 10,1.7,i7,2.6,1920x1080,256.0,SSD,Nvidia,64373.91
+HP,Gaming,15.6,8,Windows 10,2.62,i7,2.8,1920x1080,1000.0,HDD,Nvidia,32714.61
+Lenovo,Notebook,15.6,8,Windows 10,2.2,i3,2.0,1366x768,1000.0,HDD,Intel,16703.01
+HP,Notebook,15.6,4,No OS,2.1,i5,2.3,1366x768,500.0,HDD,Intel,17357.67
+Dell,Gaming,15.6,8,Windows 10,2.62,i7,2.8,3840x2160,128.0,SSD,Nvidia,54512.22
+Lenovo,Notebook,15.6,8,Windows 10,1.95,i5,2.5,1920x1080,256.0,SSD,Intel,50582.1
+Lenovo,Notebook,15.6,4,Windows 10,2.2,i3,2,1920x1080,1000.0,HDD,Nvidia,17030.52
+HP,Notebook,14.0,2,Windows 10,1.44,Celeron,1.6,1366x768,32.0,Flash,Intel,9061.11
+MSI,Gaming,15.6,8,Windows 10,2.2,i7,2.7,1920x1080,1000.0,HDD,Nvidia,30531.21
+HP,Notebook,15.6,8,Windows 10,1.96,i7,2.5,1920x1080,256.0,SSD,Intel,24708.81
+HP,Notebook,15.6,16,Windows 10,2.1,i7,1.8,1920x1080,512.0,SSD,Intel,42176.01
+Asus,Notebook,15.6,4,Windows 10,2.2,Celeron,1.6,1366x768,500.0,HDD,Intel,13427.91
+Lenovo,Notebook,15.6,4,No OS,2.1,i5,2.3,1366x768,500.0,HDD,Intel,14483.22
+Lenovo,Notebook,15.6,8,No OS,2.2,i7,2.7,1920x1080,1000.0,HDD,Nvidia,25800.51
+Asus,Notebook,14.0,4,Windows 10,2.0,i3,2.4,1920x1080,256.0,SSD,Intel,27983.91
+Lenovo,Notebook,15.6,4,Windows 7,2.32,i7,2.5,1920x1080,1000.0,Hybrid,Intel,30021.75
+Lenovo,Gaming,15.6,16,Windows 10,3.31,i7,2.6,1920x1080,512.0,SSD,Nvidia,47488.95
+MSI,Gaming,15.6,16,Windows 10,1.91,i7,2.6,1920x1080,128.0,SSD,Nvidia,78361.13
+HP,Notebook,15.6,4,Windows 10,2.07,i3,2.3,1366x768,500.0,HDD,Intel,23653.5
+Lenovo,2 in 1 Convertible,14.0,8,Windows 10,1.36,i5,2.3,2560x1440,256.0,SSD,Intel,59570.43
+Lenovo,Ultrabook,15.6,6,Windows 10,1.54,i7,2.7,1920x1080,256.0,SSD,Nvidia,30240.09
+Dell,Notebook,15.6,8,Linux,1.98,i7,2.7,1920x1080,256.0,SSD,Nvidia,32569.41
+Acer,Notebook,15.6,4,Windows 10,2.1,Celeron,2,1366x768,500.0,HDD,Intel,12117.87
+HP,Notebook,15.6,6,Windows 10,2.18,i7,2.6,1920x1080,1000.0,HDD,Nvidia,29075.61
+Asus,Gaming,15.6,8,Windows 10,2.59,i7,2.6,1920x1080,256.0,SSD,Nvidia,33078.51
+Dell,2 in 1 Convertible,15.6,16,Windows 10,2.09,i7,2.7,1920x1080,512.0,SSD,Intel,42903.81
+Acer,Notebook,15.6,4,Windows 10,2.23,i5,2.5,1920x1080,256.0,SSD,Nvidia,25145.49
+Dell,Ultrabook,13.3,8,Linux,1.23,i5,2.4,3200x1800,256.0,SSD,Intel,39992.61
+Lenovo,Gaming,15.6,8,Windows 10,2.4,i5,2.5,1920x1080,1000.0,HDD,Nvidia,29803.41
+HP,Notebook,15.6,4,Windows 10,1.86,i5,2.5,1366x768,500.0,HDD,Intel,17649.15
+Apple,Ultrabook,12.0,8,Mac OS X,0.92,Core M,1.1,2304x1440,256.0,Flash,Intel,42321.57
+Dell,2 in 1 Convertible,13.3,8,Windows 10,1.6,i5,2.5,1920x1080,256.0,SSD,Intel,43631.61
+HP,Notebook,15.6,12,Windows 10,2.21,i7,2.8,1920x1080,128.0,SSD,Nvidia,48289.53
+Lenovo,Notebook,15.6,4,No OS,1.9,i3,2,1366x768,1000.0,HDD,AMD,13391.52
+Asus,Gaming,17.3,16,Windows 10,4.3,i7,2.6,1920x1080,512.0,SSD,Nvidia,78238.5
+Acer,Notebook,15.6,4,Linux,2.1,Celeron,2,1366x768,1000.0,HDD,Intel,9898.08
+MSI,Gaming,17.3,16,Windows 10,2.43,i7,2.8,1920x1080,256.0,SSD,Nvidia,74559.47
+Dell,Notebook,15.6,4,Windows 10,2.3,i3,2.0,1366x768,128.0,SSD,AMD,18158.61
+Lenovo,Notebook,15.6,8,No OS,2.2,i7,2.5,1366x768,500.0,HDD,Nvidia,22889.31
+Dell,2 in 1 Convertible,15.6,16,Windows 10,2.0,i7,1.8,1920x1080,512.0,SSD,Intel,46761.15
+Asus,Gaming,15.6,8,Windows 10,2.2,i7,2.6,1920x1080,1000.0,HDD,Nvidia,42539.91
+Dell,Notebook,15.6,8,Windows 10,2.36,i5,2.5,1920x1080,256.0,SSD,AMD,32350.71
+HP,Notebook,15.6,8,Windows 10,1.91,i5,2.5,1366x768,256.0,SSD,Intel,21069.81
+Lenovo,Notebook,15.6,4,Windows 10,2.2,AMD,2.2,1366x768,500.0,HDD,AMD,10880.61
+Acer,Notebook,17.3,8,Windows 10,3.3,i3,2.0,1600x900,1000.0,HDD,Nvidia,22889.31
+Apple,Ultrabook,12.0,8,Mac OS X,0.92,Core M,1.2,2304x1440,512.0,Flash,Intel,46542.81
+Asus,Notebook,15.6,16,Windows 10,2.2,i7,2.8,1920x1080,128.0,SSD,Nvidia,63646.11
+MSI,Gaming,17.3,16,Windows 10,2.43,i7,2.6,1920x1080,256.0,SSD,Nvidia,70923.75
+Dell,2 in 1 Convertible,15.6,8,Windows 10,2.19,i5,2.5,1920x1080,256.0,SSD,Intel,36353.61
+Asus,Gaming,17.3,16,Windows 10,2.9,i7,2.8,1920x1080,256.0,SSD,Nvidia,70924.11
+Acer,Netbook,11.6,2,Chrome OS,1.3,Celeron,1.5,1366x768,32.0,SSD,Intel,6331.86
+Acer,Notebook,17.3,4,Windows 10,3.3,i3,2,1600x900,1000.0,HDD,Nvidia,21761.22
+Lenovo,Notebook,17.3,8,No OS,2.8,i5,2.5,1600x900,1000.0,HDD,Intel,19614.21
+Lenovo,Gaming,15.6,8,Windows 10,2.6,i7,2.6,1920x1080,128.0,SSD,Nvidia,46288.08
+Acer,2 in 1 Convertible,14.0,8,Windows 10,1.2,i7,1.3,1920x1080,256.0,SSD,Intel,41812.11
+Lenovo,Notebook,15.6,8,Windows 10,2.3,i7,2.6,1920x1080,256.0,SSD,Intel,55640.31
+MSI,Gaming,15.6,8,Windows 10,2.2,i7,2.6,1920x1080,128.0,SSD,Nvidia,53715.64
+HP,Notebook,15.6,6,Windows 10,2.1,AMD,2.7,1920x1080,1000.0,HDD,AMD,19250.31
+Dell,Ultrabook,12.5,8,Windows 7,1.26,i5,2.4,1920x1080,256.0,SSD,Intel,62349.53
+Dell,2 in 1 Convertible,15.0,4,Windows 10,2.08,i3,2.4,1920x1080,500.0,HDD,Intel,18522.51
+Asus,Notebook,15.6,4,Windows 10,2.65,Pentium,1.6,1366x768,1000.0,HDD,Intel,11244.51
+Dell,Ultrabook,13.3,8,Windows 10,1.29,i7,2.7,3200x1800,256.0,SSD,Intel,53748.03
+Dell,Notebook,15.6,4,Linux,2.18,i5,2.5,1366x768,1000.0,HDD,Intel,18990.49
+Lenovo,Gaming,15.6,16,Windows 10,2.6,i7,2.6,1920x1080,128.0,SSD,Nvidia,37445.31
+MSI,Gaming,15.6,8,Windows 10,2.2,i7,2.8,1920x1080,128.0,SSD,Nvidia,41812.11
+Lenovo,Netbook,12.5,16,Windows 10,1.3,i7,2.50,1920x1080,512.0,SSD,Intel,60043.5
+Dell,Notebook,15.6,8,Windows 10,2.3,i3,2.4,1366x768,1000.0,HDD,Intel,17067.27
+MSI,Gaming,17.3,16,Windows 10,2.7,i7,2.8,1920x1080,256.0,SSD,Nvidia,58151.22
+Apple,Ultrabook,11.6,4,Mac OS X,1.08,i5,1.6,1366x768,256.0,Flash,Intel,34898.01
+HP,Notebook,15.6,4,Windows 10,2.1,i3,2,1920x1080,1000.0,HDD,Intel,17394.42
+HP,Ultrabook,14.0,8,Windows 7,1.54,i7,2.5,2560x1440,256.0,SSD,Intel,79992.13
+Dell,Notebook,15.6,4,Windows 7,2.24,i5,2.3,1366x768,500.0,HDD,Intel,26819.43
+MSI,Gaming,15.6,8,Windows 10,2.3,i7,2.6,1920x1080,128.0,SSD,Nvidia,42539.91
+Lenovo,Notebook,13.3,16,Windows 10,1.4,i7,2.7,1920x1080,512.0,SSD,Intel,54548.61
+Lenovo,Notebook,15.6,6,Windows 10,2.2,AMD,3.6,1920x1080,256.0,SSD,AMD,21745.57
+Asus,Ultrabook,13.3,8,Windows 10,1.45,i7,2.5,1920x1080,256.0,SSD,Intel,46579.2
+Acer,Notebook,15.6,4,Linux,2.4,i3,2.0,1366x768,500.0,HDD,Intel,13165.9
+Dell,2 in 1 Convertible,17.3,16,Windows 10,2.77,i7,2.7,1920x1080,512.0,SSD,Nvidia,65465.61
+HP,Notebook,14.0,4,Windows 7,1.54,i5,2.3,1920x1080,256.0,SSD,Intel,40028.64
+Asus,Gaming,15.6,16,Windows 10,2.5,i7,2.8,1920x1080,256.0,SSD,Nvidia,58224.0
+Dell,Notebook,14.0,4,Windows 10,1.6,i5,2.5,1366x768,500.0,HDD,Intel,31841.25
+Lenovo,Notebook,15.6,8,No OS,2.3,i5,2.5,1920x1080,256.0,SSD,Intel,20851.47
+Dell,2 in 1 Convertible,13.3,8,Windows 10,1.24,i5,1.2,3200x1800,256.0,SSD,Intel,65975.07
+Dell,Notebook,15.6,4,Linux,2.2,Pentium,1.6,1366x768,500.0,HDD,Intel,11790.36
+HP,Notebook,15.6,4,Windows 10,1.86,AMD,2.5,1366x768,500.0,HDD,AMD,14519.61
+Lenovo,Notebook,15.6,6,Windows 10,2.4,i3,2.3,1920x1080,128.0,SSD,Nvidia,20705.91
+Lenovo,Notebook,14.0,8,Windows 10,1.9,i5,2.3,1920x1080,256.0,SSD,Intel,39010.08
+Dell,Notebook,15.6,4,Windows 10,2.2,Pentium,1.6,1366x768,500.0,HDD,Intel,16156.8
+Asus,Notebook,15.6,4,Windows 10,2.0,Celeron,1.1,1366x768,1000.0,HDD,Intel,12336.21
+Asus,Gaming,17.3,16,Windows 10,4.0,i7,2.6,1920x1080,128.0,SSD,Nvidia,69141.0
+Dell,Notebook,15.6,4,Windows 10,2.29,i3,2,1366x768,500.0,HDD,Intel,17831.1
+Lenovo,Notebook,15.6,8,Windows 7,2.32,i7,2.5,1920x1080,1000.0,Hybrid,AMD,32569.05
+MSI,Gaming,15.6,8,Windows 10,2.4,i7,2.6,1920x1080,128.0,SSD,Nvidia,44723.31
+Lenovo,2 in 1 Convertible,14.0,4,Windows 10,1.8,i5,2.3,1920x1080,128.0,SSD,Intel,30313.23
+Asus,Ultrabook,13.3,8,Windows 10,1.2,Core M,0.9,1920x1080,512.0,SSD,Intel,26528.31
+Dell,Notebook,15.6,6,Windows 10,2.3,i3,2.4,1366x768,1000.0,HDD,Intel,16703.01
+Acer,Notebook,15.6,4,Linux,2.4,Celeron,1.6,1366x768,500.0,HDD,Intel,10516.71
+Dell,Notebook,15.6,2,Windows 10,2.2,Celeron,1.6,1366x768,500.0,HDD,Intel,13791.81
+Lenovo,Notebook,15.6,8,Windows 10,2.6,i7,2.6,1920x1080,1000.0,HDD,Nvidia,32714.61
+HP,Notebook,15.6,6,Windows 10,2.04,AMD,2.9,1920x1080,1000.0,Hybrid,AMD,20014.14
+Dell,Notebook,15.6,8,Linux,2.3,i7,2.7,1366x768,1000.0,HDD,AMD,29329.98
+HP,Netbook,11.6,2,Windows 10,1.17,Celeron,1.6,1366x768,32.0,Flash,Intel,7605.51
+Asus,Notebook,15.6,4,Windows 10,2.2,i7,2.5,1366x768,500.0,HDD,Nvidia,26212.44
+Lenovo,2 in 1 Convertible,14.0,4,Windows 10,1.8,i7,2.5,1920x1080,128.0,SSD,Intel,23216.82
+Lenovo,2 in 1 Convertible,13.3,16,Windows 10,1.3,i7,2.5,3200x1800,512.0,SSD,Intel,54548.61
+Lenovo,Notebook,14.0,2,Windows 10,1.5,Celeron,1.6,1366x768,64.0,Flash,Intel,8333.31
+HP,Notebook,15.6,6,Windows 10,2.19,i7,2.5,1366x768,1000.0,HDD,AMD,27801.96
+Asus,Notebook,15.6,4,Windows 10,2.2,Celeron,1.6,1366x768,500.0,HDD,Intel,13427.91
+Asus,Ultrabook,13.3,8,Windows 10,1.2,Core M,0.9,1920x1080,512.0,SSD,Intel,26528.31
+Dell,Notebook,15.6,6,Windows 10,2.3,i3,2.4,1366x768,1000.0,HDD,Intel,16703.01
+Acer,Notebook,15.6,4,Linux,2.4,Celeron,1.6,1366x768,500.0,HDD,Intel,10516.71
+Dell,Notebook,15.6,2,Windows 10,2.2,Celeron,1.6,1366x768,500.0,HDD,Intel,13791.81
+Lenovo,Notebook,15.6,8,Windows 10,2.6,i7,2.6,1920x1080,1000.0,HDD,Nvidia,32714.61
+HP,Notebook,15.6,6,Windows 10,2.04,AMD,2.9,1920x1080,1000.0,Hybrid,AMD,20014.14
+Dell,Notebook,15.6,8,Linux,2.3,i7,2.7,1366x768,1000.0,HDD,AMD,29329.98
+HP,Netbook,11.6,2,Windows 10,1.17,Celeron,1.6,1366x768,32.0,Flash,Intel,7605.51
+Asus,Notebook,15.6,4,Windows 10,2.2,i7,2.5,1366x768,500.0,HDD,Nvidia,26212.44
+Lenovo,2 in 1 Convertible,14.0,4,Windows 10,1.8,i7,2.5,1920x1080,128.0,SSD,Intel,23216.82
+Lenovo,2 in 1 Convertible,13.3,16,Windows 10,1.3,i7,2.5,3200x1800,512.0,SSD,Intel,54548.61
+Lenovo,Notebook,14.0,2,Windows 10,1.5,Celeron,1.6,1366x768,64.0,Flash,Intel,8333.31
+HP,Notebook,15.6,6,Windows 10,2.19,i7,2.5,1366x768,1000.0,HDD,AMD,27801.96
+Asus,Notebook,15.6,4,Windows 10,2.2,Celeron,1.6,1366x768,500.0,HDD,Intel,13427.91
+Asus,Ultrabook,13.3,8,Windows 10,1.2,Core M,0.9,1920x1080,512.0,SSD,Intel,26528.31
+Dell,Notebook,15.6,6,Windows 10,2.3,i3,2.4,1366x768,1000.0,HDD,Intel,16703.01
+Acer,Notebook,15.6,4,Linux,2.4,Celeron,1.6,1366x768,500.0,HDD,Intel,10516.71
+Dell,Notebook,15.6,2,Windows 10,2.2,Celeron,1.6,1366x768,500.0,HDD,Intel,13791.81
+Lenovo,Notebook,15.6,8,Windows 10,2.6,i7,2.6,1920x1080,1000.0,HDD,Nvidia,32714.61
+HP,Notebook,15.6,6,Windows 10,2.04,AMD,2.9,1920x1080,1000.0,Hybrid,AMD,20014.14
+Dell,Notebook,15.6,8,Linux,2.3,i7,2.7,1366x768,1000.0,HDD,AMD,29329.98
+HP,Netbook,11.6,2,Windows 10,1.17,Celeron,1.6,1366x768,32.0,Flash,Intel,7605.51
+Asus,Notebook,15.6,4,Windows 10,2.2,i7,2.5,1366x768,500.0,HDD,Nvidia,26212.44
+Lenovo,2 in 1 Convertible,14.0,4,Windows 10,1.8,i7,2.5,1920x1080,128.0,SSD,Intel,23216.82
+Lenovo,2 in 1 Convertible,13.3,16,Windows 10,1.3,i7,2.5,3200x1800,512.0,SSD,Intel,54548.61
+Lenovo,Notebook,14.0,2,Windows 10,1.5,Celeron,1.6,1366x768,64.0,Flash,Intel,8333.31
+HP,Notebook,15.6,6,Windows 10,2.19,i7,2.5,1366x768,1000.0,HDD,AMD,27801.96
+Asus,Notebook,15.6,4,Windows 10,2.2,Celeron,1.6,1366x768,500.0,HDD,Intel,13427.91
